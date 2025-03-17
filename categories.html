@@ -29,3 +29,9 @@ Beware of the piranhas (click at your own risk).
 {% for post in site.categories.Finance %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
+
+<h3>Unhinged</h3>
+ 
+{% for post in site.categories.Unhinged %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ {% endfor %}
