@@ -9,23 +9,23 @@ Beware of the piranhas (click at your own risk).
 
 <h3>Reflections</h3>
 {% for post in site.categories.Reflections %}
- <li>currently empty<span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 
 <h3>Philosophy</h3>
  
 {% for post in site.categories.Philosophy %}
- <li>currently empty<span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
  
 <h3>Physics</h3>
 
 {% for post in site.categories.Physics %}
- <li>currently empty<span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 
-<h3>Stonks</h3>
+<h3>Finance</h3>
  
 {% for post in site.categories.Finance %}
- <li>currently empty<span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
