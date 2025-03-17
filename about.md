@@ -9,10 +9,10 @@ permalink: /about/
 </figure>
 <br>
 
-<div style="text-align:center">I am Z, _metamagician_. </div>
+<div style="text-align:center">I am Z, <emph>metamagician</emph>. </div>
 
 <div style="text-align:center">
-_I am weaponized autism, a tightrope walking and dancing, the gold-transmuter, king of cold, a cat-whispering Cassandra, master memester, a ghost, alien communicator, Socrates apologist, ice-cream taster, a dangerous up and down goer, destructor of civilizations, squirrel. Among my feats, thirty thousand dot products, seven hundred and forty one years old, desire blue sky._
+<emph>I am weaponized autism, a tightrope walking and dancing, the gold-transmuter, king of cold, a cat-whispering Cassandra, master memester, a ghost, alien communicator, Socrates apologist, ice-cream taster, a dangerous up and down goer, destructor of civilizations, squirrel. Among my feats, thirty thousand dot products, seven hundred and forty one years old, desire blue sky.</emph>
 </div>
 
 _z2515
