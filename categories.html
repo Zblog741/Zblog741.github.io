@@ -7,6 +7,13 @@ Beware of the piranhas (click at your own risk).
 <br> 
 <br>
 
+
+
+<h3>Media Analysis</h3>
+{% for post in site.categories.media-analysis %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ {% endfor %}
+
 <h3>Reflections</h3>
 {% for post in site.categories.Reflections %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
