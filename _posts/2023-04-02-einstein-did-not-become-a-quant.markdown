@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Einstein Did Not Become a Quant"
-categories: physics-history
+categories: Reflections
 date: 2023-04-02
 mathjax: false
 ---
