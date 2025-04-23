@@ -6,10 +6,31 @@ date: 2023-03-01
 mathjax: false
 ---
 
+<script type="text/javascript" async
+  src="https://polyfill.io/v3/polyfill.min.js?features=es6">
+</script>
+<script type="text/javascript" async
+  id="MathJax-script"
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+</script>
+
 **March 1, 2023.**
 *In this informal article I propose an anthropic argument for where advanced civilizations may be likely to dwell. I first discuss this argument in the context of the simulation hypothesis and then introductorily discuss the possibility of advanced civilizations dwelling near black holes.*
 
-*Disclaimers: Paragraphs in italics is text I wrote years ago as a form of brainstorming. Part I contains the core philosophical motivation for the latter parts, which will focus on the science of the hypothesis (if I ever decide to post them).* <small> Furthermore, most of the post was written in 2023, but some details (like power requirement calculations) were added in April 2025. </small>
+*Disclaimers: Paragraphs in italics is text I wrote years ago as a form of brainstorming. Part I contains the core philosophical motivation for the latter parts, which will focus on the science of the hypothesis (if I ever decide to post them).* <small> Furthermore, most of the post was written in 2023, but some details (extra clarity and power requirement calculations) were added in April 2025. </small>
 
 ## The Hypothesis
 
@@ -78,7 +99,7 @@ For simplicity, I will start by considering non-rotating black holes, using the 
 <div style="text-align: center;">
 
 <img src="/assets/aliens/image-1.png" alt="Schwarzschild metric" style="width:100%; max-width:300px;">
-<figcaption>ol' reliable Schwarzschild metric, where $M$ is the mass of the black hole, $d\Omega = d\theta + sin^2\theta \, d\phi^2$, and $r_s = {2GM}/{c^2}$ is the Schwarzschild radius.</figcaption>
+<figcaption>ol' reliable Schwarzschild metric, where $M$ is the mass of the black hole, $d\Omega^2 = d\theta^2 + sin^2\theta \, d\phi^2$, and $r_s = {2GM}/{c^2}$ is the Schwarzschild radius.</figcaption>
 </div>
 
 </figure>
@@ -93,7 +114,11 @@ The event horizon, at a distance from the center of the black hole equal to the 
 The photon sphere orbit is the limit of the smallest free-fall orbit possible around a black hole, with a radius 
 $r_{ps} = \frac{3}{2} r_s$. To mention, stable orbits for massive objects are not possible for radii this small, up to the Schwarzschild innermost stable circular orbit (ISCO) radius $r_{ISCO} = 3\,r_s$. 
 
-For a Schwarzschild metric it [can be shown](https://physics.stackexchange.com/a/96498) that the time dilation $\gamma = \frac{dt}{d\tau}$ experienced by an observer in a circular orbit around the black hole is given by
+In the case of Schwarzschild orbits at fixed $r$ we have the metric 
+
+$$d\tau^2 = \left(1 - \frac{r_s}{r}\right) dt^2 + r^2 d\phi^2,$$
+
+and it [can be shown](https://physics.stackexchange.com/a/96498) that the time dilation $\gamma = \frac{dt}{d\tau}$ experienced by an observer in a circular orbit around the black hole is given by
 
 $$\gamma = \frac{1}{\sqrt{1 - \frac{3GM}{rc^2}}}.$$
 
@@ -109,9 +134,9 @@ Clearly, the time dilation from just hovering over $r_{ps}$ alone is not enough 
 </figure>
 
 
-When considering Schwarzschild circular orbits we have the photon sphere radius take a mathematically similar role to that of the Schwarzschild radius, but for orbiting observers:
+As a mathematical curiosity, we can reparametrize the orbit radius and write $d\phi$ in terms of $dt$ so that the orbit solution looks like a hovering solution, and the photon sphere radius takes the role of the Schwarzschild radius: 
 
-$$d\tau^2 = \left(1 - \frac{r_{ps}}{r}\right) dt^2.$$
+$$d\tau^2 = \left(1 - \frac{r_{ps}}{r}\right) d t^2 $$
 
 Albeit unstable, an orbit close to the photon sphere may be considered a candidate for the requirement of minimizing continuous expenses of energy to counter the black hole's gravitational pull while trying to maximize time dilation. 
 And though there is no stable orbit near the photon sphere, when considering the effective potential for an orbiting object, <a href="https://profoundphysics.com/black-hole-orbits/" target="_blank">it turns out</a> that in addition to the outer stable orbit there is an inner unstable orbit closer to $r_{ps}$. 
