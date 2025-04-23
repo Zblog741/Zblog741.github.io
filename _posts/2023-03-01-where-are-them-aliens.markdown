@@ -112,7 +112,7 @@ Clearly, the time dilation from just hovering over $r_{ps}$ alone is not enough 
 </figure>
 
 
-As a mathematical curiosity, we can reparametrize the orbit radius and write $d\phi$ in terms of $dt$ so that the orbit solution looks like a hovering solution, and the photon sphere radius takes the role of the Schwarzschild radius: 
+As a mathematical curiosity, we can and write $d\phi$ in terms of $dt$ so that the orbit solution looks like a hovering solution, and the photon sphere radius takes the role of the Schwarzschild radius: 
 
 $$d\tau^2 = \left(1 - \frac{r_{ps}}{r}\right) d t^2 $$
 
