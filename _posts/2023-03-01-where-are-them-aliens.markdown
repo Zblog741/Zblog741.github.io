@@ -5,28 +5,6 @@ categories: [Metaphysics, Philosophy]
 date: 2023-03-01
 mathjax: false
 ---
-
-<script type="text/javascript" async
-  src="https://polyfill.io/v3/polyfill.min.js?features=es6">
-</script>
-<script type="text/javascript" async
-  id="MathJax-script"
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  };
-</script>
-
 **March 1, 2023.**
 *In this informal article I propose an anthropic argument for where advanced civilizations may be likely to dwell. I first discuss this argument in the context of the simulation hypothesis and then introductorily discuss the possibility of advanced civilizations dwelling near black holes.*
 
