@@ -7,8 +7,8 @@ mathjax: false
 ---
 
 **April 24, 2025.** *In this short informal essay I give some initial thoughts on rendering causality as frame-dependent.*
+<!--more-->
 
-<div>
 <p>
 I first started writing this post as part of the second part for my review of the film <i>Stag Hunt</i>, especially regarding the nature of room 34. However, it ended up growing in a different direction, so I decided to make it its own post. In this short essay I argue that time travel paradoxes in faster-than-light travel might be resolved invoking the microcausality condition. I am sure a lot more can be studied out of this idea, more formally; perhaps there's something out there, but I've just never heard or read about this. PS: After writing this one I accidentally ended up making an <a href="https://zblog741.github.io/ctc-coin">even more interesting, cooler post</a> about flipping coins back in time. I'm pretty sure a lot of interesting math can be done here too, though. 
 </p>
@@ -91,5 +91,3 @@ Assuming no one history is more valid than other, crossing the speed of light wo
 </p> 
 
 <p> Ultimately, reconciling these views may depend on our choice of framework. Deutsch’s model of closed timelike curves would leave the Universe every chance to maximize entropy and hence blow up the amount of valid histories. The Projective-CTC framework, on the other hand, prevents this jump in entropy via post-selection, playing the <a href="/assets/time/GVV9JYoa8AAh0ss.jpg" target="_blank"><i>"nothing ever happens" meme</i></a>, which is as realistic as it gets. Either way, time travel might not be about changing the past, but expanding what it means to have had one. </p>
-
-</div>
