@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Intergalactic TV Hypothesis, Part I"
-categories: [Metaphysics, Philosophy]
+categories: [metaphysics, philosophy]
 date: 2023-03-01
 mathjax: false
 ---
