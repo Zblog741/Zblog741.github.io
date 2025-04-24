@@ -15,30 +15,30 @@ Beware of the piranhas (click at your own risk).
  {% endfor %}
 
 <h3>Reflections</h3>
-{% for post in site.categories.Reflections %}
+{% for post in site.categories.reflections %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 
 <h3>Philosophy</h3>
  
-{% for post in site.categories.Philosophy %}
+{% for post in site.categories.philosophy %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
  
 <h3>Physics</h3>
 
-{% for post in site.categories.Physics %}
+{% for post in site.categories.physics %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 
 <h3>Finance</h3>
  
-{% for post in site.categories.Finance %}
+{% for post in site.categories.finance %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 
 <h3>Unhinged</h3>
  
-{% for post in site.categories.Unhinged %}
+{% for post in site.categories.unhinged %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
