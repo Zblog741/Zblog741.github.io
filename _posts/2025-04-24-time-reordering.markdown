@@ -2,9 +2,10 @@
 layout: post
 title: "Motivating Time Travel: Time-Reordering"
 categories: physics
-date: 2025-04-21
+date: 2025-04-24
 mathjax: false
 ---
+
 **April 24, 2025.** *In this short informal essay I give some initial thoughts on rendering causality as frame-dependent.*
 
 <p>
