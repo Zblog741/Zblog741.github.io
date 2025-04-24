@@ -1,0 +1,179 @@
+---
+layout: post
+title: "CTCs & The World's Most Brutal Coin Toss"
+categories: physics
+date: 2025-04-25
+mathjax: false
+---
+
+
+**April 25, 2025.** *I toss a coin back in time to define free will and resolve the time-travel version of Zeno’s paradox.*
+<!--more-->
+
+Can time travel preserve both free will and logical consistency in quantum mechanics?
+This post compares Deutsch's and the postselected approach to closed timelike curves through a game-theoretic lens. By modeling a coin toss between a human and a perfect oracle using an analogy drawn from anime, I argue that entropy-maximizing fixed points in D-CTCs may allow for strategic autonomy in otherwise deterministic or looping scenarios, and explore how each model handles paradox, prediction, and choice. 
+
+<h2>Quantum Information of Closed Timelike Curves</h2>
+
+<p>
+The appearance of closed timelike curves (CTCs) in certain solutions of Einstein’s field equations (e.g. Gödel’s universe) has prompted ongoing debates about whether such “time loops” are compatible with quantum mechanics. A CTC, in principle, allows a system to leave the present and interact with its own past, raising paradoxes familiar from science fiction. 
+</p>
+
+<p>
+In the quantum domain, one of the best-known approaches to CTCs is due to Deutsch [1]. His theory posits that a quantum system traveling around a D-CTC must obey a self-consistency condition ensuring it emerges in the same state with which it entered. Consider a unitary interaction $U$ coupling that “time-traveling” system, call it $B$, to an external or “chronology-respecting” system $A$. Let $ \rho_A $ be the state of $A$. Deutsch demands that the final state of $B$, after tracing out $A$, coincide with the initial $ \rho_B $. Symbolically:
+</p>
+
+$$
+\rho_B 
+= 
+\mathrm{Tr}_A \Bigl[
+  U \bigl(\rho_B \otimes \rho_A \bigr) U^\dagger
+\Bigr]
+\tag{1}
+$$
+
+<p>
+Because the reduced state of $B$ is forced to remain identical across the loop, (1) is dubbed the “self-consistency condition”. It precludes paradoxes by ensuring the system’s state does not contradict itself upon returning to the past.
+</p>
+
+<p>
+A notable consequence is that this mechanism may induce nonlinear behavior for the chronology-respecting system $A$. Indeed, when we compute the final state $ \rho_A' $ of $A$ by tracing out the CTC system, we must write a $ \rho_B $ that itself depends on $ \rho_A $. Formally, one has
+</p>
+
+$$
+\rho_A' 
+= 
+\mathrm{Tr}_B \Bigl[
+  U \bigl(\rho_B(\rho_A) \otimes \rho_A \bigr) U^\dagger
+\Bigr]
+$$
+
+<p>
+so the map $ \rho_A \mapsto \rho_A' $ becomes explicitly nonlinear because $ \rho_B $ is not an independent, fixed operator but is determined by the very state $ \rho_A $ via the consistency condition.
+</p>
+
+<p>
+Deutsch’s framework resolves the paradoxes at the level of the time-traveling subsystem’s reduced dynamics. However, it can lead to scenarios in which measurements performed on $B$ before and after the loop exhibit seemingly inconsistent outcomes, once correlations with the external system are fully accounted for. This arises because Deutsch’s condition only ensures consistency for the marginal state of $B$ itself, not for joint correlations between $B$ and other degrees of freedom.
+</p>
+
+<p>
+This limitation motivated alternative proposals such as the postselected (or projective) CTC (P-CTC) approach [2,3]. Rather than imposing that the system in the CTC returns in precisely the same mixed state, P-CTCs forbid logically contradictory trajectories by assigning zero probability amplitude to them via postselection. In a typical realization, one treats the loop as a quantum teleportation protocol combined with a Bell-state projection. If a “contradictory” event — like traveling back in time to kill one’s own grandfather — would arise, then the postselection enforces final boundary conditions that the contradictory history cannot satisfy, effectively giving it zero amplitude. Moreover, in contrast to Deutsch’s formulation, which can produce a mixed state out of a pure one, <a href="https://zblog741.github.io/time-reordering/" target="_blank">P-CTCs do not create entropy</a>, so the global evolution of a pure state remains pure.
+</p>
+
+<p>
+An important by-product of the P-CTC approach is that correlations with external systems are preserved in a self-consistent manner: since the postselection constraints apply globally (including all ancillary systems), measurements on $B$ before and after its trip, or on any entangled partner, will yield compatible outcomes. Contradictory correlations that would defy logical consistency simply never appear in the postselected data. By contrast, Deutsch’s condition can allow $B$ to exit the loop in a way that breaks or rearranges external correlations, as long as the reduced state of $B$ alone remains the same.
+</p>
+
+
+
+
+
+
+
+
+
+<h1>The World's Most Brutal Coin Toss</h1>
+<p>
+In <em>No Game No Life</em>, the fate of two nations hang on a single coin toss: if Sora wins, representing humanity, the Kingdom of Elkia reclaims the Eastern Federation’s entire territory (including its outlying islands); if Sora loses, the Werebeasts secure self-rule and guaranteed resources for the Eastern Federation, saving their people from slavery. The Eastern Federation representant, a Werebeast oracle, with its flawless binary prediction, expects a clear “1” (tails). Yet, at the very last moment, Sora boldly moves the floor tile—forcing the coin to land sideways and shattering the oracle's expectations.
+</p>
+<p>
+We capture this dramatic twist using Deutsch’s closed timelike curve framework, with a quantum coin. 
+In our analogy, the coin has two facets. The deterministic "chronology-preserving" quantum coin is represented by 
+$$\rho_A = |1\rangle\langle1|,$$ 
+which reflects the outcome as predicted by the oracle—“1” (tails). The CTC coin, denoted by 
+$$\rho_{\text{CTC}},$$ 
+is the coin Sora sends through the CTC by explicitly moving the floor tile in our analogy. Its state must satisfy a self-consistency condition that depends on $\rho_A$.
+</p>
+<p>
+Sora’s floor tile move is modeled by a unitary operator $U$ that couples the CTC coin with the deterministic coin. For instance, consider the controlled bit-flip unitary defined by the CNOT gate 
+$$
+U\,\bigl(|x\rangle_{\text{CTC}} \otimes |y\rangle_A\bigr)
+= |x\rangle_{\text{CTC}} \otimes |x \oplus y\rangle_A,
+$$
+with $x,y \in \{0,1\}$ and $\oplus$ denoting addition modulo 2. Here, the value $x$ on the CTC coin represents its intrinsic outcome: $x = 0$ may correspond to “heads” and $x = 1$ to “tails”. Explicitly, if the deterministic coin is in state $|1\rangle_A$:
+</p>
+<p>
+When $x = 0$:<br>
+$$
+U\bigl(|0\rangle_{\text{CTC}} \otimes |1\rangle_A\bigr)
+= |0\rangle_{\text{CTC}} \otimes |0 \oplus 1\rangle_A
+= |0\rangle_{\text{CTC}} \otimes |1\rangle_A,
+$$
+so the deterministic coin remains in $|1\rangle$.
+</p>
+<p>
+When $x = 1$:<br>
+$$
+U\bigl(|1\rangle_{\text{CTC}} \otimes |1\rangle_A\bigr)
+= |1\rangle_{\text{CTC}} \otimes |1 \oplus 1\rangle_A
+= |1\rangle_{\text{CTC}} \otimes |0\rangle_A,
+$$
+so the deterministic coin remains in $|0\rangle$ (<i>wink, wink</i>).
+</p>
+<p>
+You can think of it as the coin falling into the CTC, and giving the deterministic coin $|1\rangle$ (the same that falls into the CTC) an extra flip only when the coin trapped in the time loop is $|1\rangle$. 
+</p>
+<p>
+The self-consistency condition requires that the state of the CTC coin remain invariant:
+$$
+\rho_{\text{CTC}} = \operatorname{Tr}_A\!\Bigl[\,U\bigl(\rho_{\text{CTC}} \otimes \rho_A\bigr)U^\dagger\Bigr].
+$$
+Express the general state of the CTC coin as
+$$
+\rho_{\text{CTC}} = \begin{pmatrix} \alpha & \gamma \\ \gamma^* & \beta \end{pmatrix}, \quad \alpha + \beta = 1.
+$$
+Given $\rho_A = |1\rangle\langle1|$, applying $U$ and tracing out the deterministic coin forces the off-diagonal elements to vanish:
+$$
+S(\rho_{\text{CTC}}) = \begin{pmatrix} \alpha & 0 \\ 0 & \beta \end{pmatrix},
+$$
+where $S$ is the superscattering operator which simply applies the self-consistency condition. Thus, the only self-consistent fixed point is actually a range of possible states
+$$
+\rho_{\text{CTC}} = \begin{pmatrix} p & 0 \\ 0 & 1-p \end{pmatrix} = p\,|0\rangle\langle0| + (1-p)\,|1\rangle\langle1|, \quad 0 \le p \le 1.
+$$
+</p>
+
+<p>
+A pure outcome (i.e., $p=1$ or $p=0$) would simply confirm the oracle’s prediction. However, the oracle is free to choose either head or tail and will only be willing to wager if it has more than a 50% chance of winning. As all games in <em>No Game No Life</em> obey a set of covenants set by the <em>One True God</em> Tet, and the third covenant requires that bet stakes be of equal value, the oracle will only bet if it can secure an edge. Sora’s clever intervention forces the outcome to a perfectly balanced state, which occurs when
+$$
+p = \frac{1}{2},
+$$
+so that
+$$
+\rho_{\text{CTC}} = \frac{1}{2}\,|0\rangle\langle0| + \frac{1}{2}\,|1\rangle\langle1|.
+$$
+</p>
+<p>
+In effect, Sora’s explicit floor-tile move, represented by the unitary $U$, forces the coin emerging from the CTC into a state that is neither clearly heads nor tails. This mixed outcome—representing the coin landing sideways—deprives the oracle of any advantage. 
+Moreover, this dramatic scenario serves as a compelling illustration of free will in time travel: by forcing the outcome to be maximally mixed, Sora subverts the oracle, ensuring that neither side can claim an advantage, effectively tying the game (assuming the coin is not finally measured).
+In fact, in his paper Deutsch postulates a <em>maximum entropy rule</em> (as to prevent <a href="https://en.wikipedia.org/wiki/Temporal_paradox#Bootstrap_paradox" target="_blank">bootstrap paradoxes</a>), which sets $p=1/2$. 
+This is interesting for the free will debate since humans are set to be at disadvantage <i>almost surely</i> against an oracle, except for the maximum entropy case, which places the human at no disadvantage against the oracle. This reveals a subtle but profound implication: that in the D-CTC framework the entropy-maximizing solution may be the only mechanism by which an agent can preserve strategic autonomy against a perfect predictor. In <em>No Game No Life</em>, Sora gives the Werebeast oracle two potential resolutions: they both lose or they both win, upon which the Werebeast decides on the most favourable outcome for the Eastern Federation, a win-win. 
+<em>Hence, even if an oracle were unable to lose at their wager, the human may also be able to win against the oracle. </em>
+Even though the original coin toss game in <em>No Game No Life</em> did not involve any time travel, and the Werebeast could not win the game due to her failure to account for Sora's ingenuity, this example illustrates that a D-CTC allows for "free will" by using the maximum entropy rule. 
+However, this strategy depends on the maximum entropy rule being universally enforced; without the maximum entropy rule, the oracle can always counter the human’s move by using another D-CTC and selecting a fixed-point solution that restores its deterministic prediction ($p=0$), effectively undoing any attempt to force a fair toss. 
+</p>
+
+
+
+<p> Let’s first consider what happens when we use D-CTCs but relax the maximum entropy rule, sticking only to Deutsch’s original self-consistency condition. 
+If the oracle has access to its own D-CTCs, it could exploit this freedom by selecting a fixed-point solution that guarantees its win.
+Even if the oracle doesn’t explicitly use a CTC, we may allow the oracle to play on an even field and let it interact with the coin without collapsing its quantum state—applying a unitary operation just before the coin lands, given it lands at a fixed time $T_A$, to bias the outcome. 
+If both players can act this way, the result fails to converge: we can picture an infinite strategic loop where the coin’s state keeps flipping between the maximally mixed state and a pure state as it approaches $T_A$. While Deutsch proposed the maximum entropy rule to avoid bootstrap paradoxes, our scenario reveals a distinct yet similar and equally troubling issue: a game-theoretic analogue of Zeno’s paradox, where without the entropy rule, strategic responses regress infinitely and the system fails to converge.
+Negotiating a tie with the oracle would seem futile, too—the expected value of the outcome would favour the oracle. 
+Now contrast this with P-CTCs. In the postselection model, inconsistent or paradoxical histories are eliminated outright: they’re assigned zero probability amplitude. 
+If the human prepares a maximally mixed coin and couples it via postselected teleportation, the oracle can’t reverse the outcome. 
+Even though neither the human nor the oracle may be able to predict the result of the coin, the result is effectively locked in at the point of postselection, locking the probabilities of the outcome, and therefore providing a solution for the limit at $T_A$.
+As a result, both D-CTCs with the entropy rule and P-CTCs prevent the non-convergence—resolving what would otherwise resemble a time-travel version of <em>Zeno’s paradox</em>.
+</p>
+
+
+
+<h2>References</h2>
+
+<ol>
+  <li>D. Deutsch, “Quantum mechanics near closed timelike lines,” <em>Phys. Rev. D</em> 44, 3197 (1991).</li>
+  <li>S. Lloyd, L. Maccone, R. Garcia-Patron, V. Giovannetti, and Y. Shikano, “The quantum mechanics of time travel through post-selected teleportation,” arXiv:1007.2615 (2010).</li>
+  <li>S. Lloyd, L. Maccone, et al., “Closed timelike curves via postselection: theory and experimental demonstration,” <em>Phys. Rev. Lett.</em> 106, 040403 (2011).</li>
+</ol>
+
+
+
