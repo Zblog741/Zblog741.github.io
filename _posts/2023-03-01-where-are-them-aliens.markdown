@@ -7,6 +7,7 @@ mathjax: false
 ---
 **March 1, 2023.**
 *In this informal article I propose an anthropic argument for where advanced civilizations may be likely to dwell. I first discuss this argument in the context of the simulation hypothesis and then introductorily discuss the possibility of advanced civilizations dwelling near black holes.*
+<!--more-->
 
 *Disclaimers: Paragraphs in italics is text I wrote years ago as a form of brainstorming. Part I contains the core philosophical motivation for the latter parts, which will focus on the science of the hypothesis.* <small> Furthermore, most of the post was written in 2023, but some details (extra clarity and power requirement calculations) were added in April 2025. </small>
 
