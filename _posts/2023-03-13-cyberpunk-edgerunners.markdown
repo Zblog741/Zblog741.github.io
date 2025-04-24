@@ -6,6 +6,7 @@ date: 2023-03-13
 mathjax: false
 ---
 **March 13, 2023.** *In this article I comment about the anime* Cyberpunk: Edgerunners *and comment on on ways I find it mirrors our current society, particularly drawing parallels between the seventies and the 2020's, raising contemporary and seemingly ever-green concerns, and on how I have personally related to this anime.* 
+<!--more-->
 
 *Cyberpunk: Edgerunners* is a rather unusual production for studio TRIGGER, being based on *Cyberpunk 2077*, a western videogame. Nevertheless, it is widely regarded as one of the best anime produced to date by them. Studio TRIGGER is known for their over-the-top action, but the true genius of studio TRIGGER and its predecesor Gainax has often been, in my opinion, the deep connections of their anime with Nietzschean moral philosophy; I plan to write on this in the future, making use of some rather lengthy notes I have, perhaps from when I had a better memory of Nietzsche's philosophy. In this ocassion they followed a different recipe as *Cyberpunk: Edgerunners* is not an original anime, but was mostly written by CD Projekt Red, the developers of the videogame. And as such, the creative input from TRIGGER was limited to certain aspects such as characters and animation. This article is not about aspects such as the animation and direction quality, as this extremely high quality anime speaks for itself in those regards. A little disclaimer: I haven't had the opportunity to play the game yet. 
 
