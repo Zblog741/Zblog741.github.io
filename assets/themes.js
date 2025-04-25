@@ -1,5 +1,4 @@
-// April Fools' Upside Down Website Script
-
+// April Fools' Upside Down 
 document.addEventListener('DOMContentLoaded', function() {
   // Check if today is April 1st
   const today = new Date();
@@ -47,6 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 
+// Holiday themes
 document.addEventListener('DOMContentLoaded', function () {
   const today = new Date();
   const month = today.getMonth(); // 0-indexed
