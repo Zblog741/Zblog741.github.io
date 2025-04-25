@@ -18,64 +18,12 @@
     href="https://fonts.googleapis.com/css?family=Merriweather|Roboto+Slab|Lora|Nanum+Gothic|Nunito|Nunito+Sans|Oswald|PT+Serif|Poppins|Lexend+Deca&display=swap"
 rel="stylesheet">
 
+    <script src="/assets/themes.js"></script>
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
-    
-    <script>
-    // April Fools' Upside Down Website Script
-    // Add this to your website's header or main JavaScript file
-    
-    document.addEventListener('DOMContentLoaded', function() {
-      // Check if today is April 1st
-      const today = new Date();
-      const isAprilFools = today.getMonth() === 3 && today.getDate() === 1;
-      
-      if (isAprilFools) {
-        // Create a style element
-        const styleElement = document.createElement('style');
-        
-        // Add CSS to flip the entire page upside down
-        styleElement.textContent = `
-          body {
-            transform: rotate(180deg);
-            transform-origin: center center;
-            min-height: 100vh;
-          }
-          
-          /* Optional: Also flip text to make it readable (uncomment if you want text to be readable) */
-          /*
-          p, h1, h2, h3, h4, h5, h6, span, a, li, div {
-            transform: rotate(180deg);
-          }
-          */
-          
-          /* Add a message explaining the prank */
-          body::before {
-            content: "April Fools! Your screen isn't broken, we're just having some fun today!";
-            position: fixed;
-            bottom: 10px;
-            left: 50%;
-            transform: translateX(-50%) rotate(180deg);
-            background-color: rgba(255, 255, 255, 0.8);
-            padding: 10px;
-            border-radius: 5px;
-            z-index: 9999;
-            font-weight: bold;
-          }
-        `;
-        
-        // Add the style element to the document
-        document.head.appendChild(styleElement);
-        
-        // Optional: Add a cookie so the prank only happens once per session
-        document.cookie = "aprilFoolsSeen=true; path=/; max-age=86400";
-      }
-    });
-    </script>
-
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
