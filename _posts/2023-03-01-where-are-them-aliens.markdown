@@ -117,10 +117,7 @@ As a mathematical curiosity, we can and write $d\phi$ in terms of $dt$ so that t
 
 $$d\tau^2 = \left(1 - \frac{r_{ps}}{r}\right) d t^2 $$
 
-Albeit unstable, an orbit close to the photon sphere may be considered a candidate for the requirement of minimizing continuous expenses of energy to counter the black hole's gravitational pull while trying to maximize time dilation. 
-And though there is no stable orbit near the photon sphere, when considering the effective potential for an orbiting object, <a href="https://profoundphysics.com/black-hole-orbits/" target="_blank">it turns out</a> that in addition to the outer stable orbit there is an inner unstable orbit closer to $r_{ps}$. 
-
-
+Though there is no stable orbit near the photon sphere, when considering the effective potential for an orbiting object, <a href="https://profoundphysics.com/black-hole-orbits/" target="_blank">it turns out</a> that in addition to the outer stable orbit there is an inner unstable orbit closer to $r_{ps}$. Albeit unstable, an orbit close to the photon sphere may be considered a candidate for the requirement of minimizing continuous expenses of energy to counter the black hole's gravitational pull while trying to maximize time dilation. 
 
 #### Power Requirements near the Photon Sphere
 
