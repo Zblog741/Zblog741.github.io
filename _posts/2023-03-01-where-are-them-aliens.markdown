@@ -90,7 +90,7 @@ $$d\tau^2 = \left(1 - \frac{r_s}{r}\right) dt^2.$$
 
 The event horizon, at a distance from the center of the black hole equal to the Schwarzschild radius, is the minimal distance to the black hole from which the civilization would be able to communicate with the exterior, so the Schwarzschild radius poses a limit to the time dilation to be considered. This can easily be seen to correspond to infinite time dilation. For now, we'll make a mental note to return to compute the power required in this static fall case. It may be more interesting to instead consider configurations that do not continuously require of large amounts of energy; that is, orbits. 
 
-The photon sphere orbit is the limit of the smallest free-fall orbit possible around a black hole, with a radius 
+The photon sphere orbit is the limit of the smallest possible free-fall closed orbit around a black hole, with a radius 
 $r_{ps} = \frac{3}{2} r_s$. To mention, stable orbits for massive objects are not possible for radii this small, up to the Schwarzschild innermost stable circular orbit (ISCO) radius $r_{ISCO} = 3\,r_s$. 
 
 In the case of Schwarzschild orbits at fixed $r$ we have the metric 
