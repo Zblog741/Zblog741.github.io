@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function () {
     { name: 'christmas', month: 11, date: 25 },     // Dec 25
     { name: 'newyear', month: 11, date: 31 },       // Dec 31
     { name: 'newyear', month: 0, date: 1 },         // Jan 1
-    { name: 'solstice', month: 4, date: 7 },        // June 7
+    { name: 'solstice', month: 5, date: 7 },        // June 7
     { name: 'easteregg', month: 3, date: 20 },      // April 20
   ];
 
