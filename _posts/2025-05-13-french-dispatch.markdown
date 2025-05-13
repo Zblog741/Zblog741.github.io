@@ -6,7 +6,7 @@ date: 2025-05-13
 mathjax: false
 ---
 
-**March 13, 2023.** *Brief notes on the symbolism and philosophy of West Anderson's film "The French Dispatch".* 
+**May 13, 2025.** *Brief notes on the symbolism and philosophy of West Anderson's film "The French Dispatch".* 
 <!--more-->
 
 I found some old notes about West Anderson's film *The French Dispatch* which I wrote after watching it once, and just thought "why not post them?" I am assuming you've already watched the movie or are reading this in an attempt of convincing yourself to watch it. This is not meant to be a complete interpretation of the film or catch all references, but explains my interpretations after a first impression; it's a window into Wes Anderson's meme-world. 
