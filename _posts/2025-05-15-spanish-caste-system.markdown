@@ -29,6 +29,8 @@ Sometimes I will paste my *unhinged discord ramblings*,
 
 > just like this. 
 
+This post is, after all, tagged with the unhinged category. 
+
 # Table of Contents
 1. [Spanish Politics](#spanish-politics)
 2. [Spanish Education](#spanish-education)
