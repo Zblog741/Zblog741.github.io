@@ -754,7 +754,7 @@ The money is given to individual small projects, thousands of them, and it would
 
 > I applied there and they didn't even call me back, they only hire boomers with a PhD and 20 years of experience
 
-> And everything I've been shitting on the EU next generation funds, WELL HERE IT IS, will people finally start believing me that Next Gen is a giant communist money launderer?
+> And everything I've been shitting on the EU next generation funds, WELL HERE IT IS, will people finally start believing me that Next Gen is a giant communist embezzlement scheme? 
 
 
 Moreover, I am personally extremely suspicious of the European Union's recent stances, such as with the anti-cryptocurrency stances of the European Central Bank or the survival kit for a "climate change emergency"; 
