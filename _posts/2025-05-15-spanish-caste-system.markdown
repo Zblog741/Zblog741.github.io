@@ -564,6 +564,8 @@ She also makes 546k euros a year. *That's a lot.*
 
 Spain has many similarities with what you'd expect from a communist regime. 
 It doesn't necessarily *feel* like it, but I guess that's also what someone in a communist regime would say. It will become more evident in the next subsections. 
+While Spain makes productivity highly costly with a hostile legal and tax environment, it makes fraud permissive: 
+squatters are protected by law, industries are highly dependent on subsidies and schemes that favour fraud, and certain forms of fraud are not treated as a crime under thresholds of hundreds of thousands of euros. 
 I'll also take advantage of this space to raise that the government is incredibly bureaucratic and slow. 
 For any procedure you're normally expected to read a 40-page document of extremely obtuse Spanish legalese, if not multiple. 
 
@@ -838,14 +840,14 @@ As a general rule, the older you are the more benefits you qualify for, but if y
 I won't go over every benefit since that would double the length of this post. 
 Being a victim of *gender violence* significantly enhances access to these benefits, to the point that the police has busted "mafias" that generated false accusations for female undocumented north african immigrants to access them. The benefits they offer for young people are typically small additions for living expenses. 
 
-One of the most important benefits is the minimal living income. 
+One of the most important benefits is the minimal living income, for which the eligibility is considered on the entire household. 
 We also have a number of other similar benefits for middle-aged people (they always have some age requirement). 
 Normally every autonomous community has a copy of the same benefits the central government offers (in practice, a small supplement to the central ones), plus a local list. 
 However...
 
 > we have a "minimal living income" in Spain, which is similar to UBI if you're not working
 
-> of course, nobody but the wealthy can afford not to work the duration it takes the bureaucracy to process the procedure (about a year) 
+> of course, nobody but the wealthy can afford not to work the duration it takes the bureaucracy to process the procedure (about a year iirc) 
 
 > if you're a boomer with a paid for house and wealth abroad you can claim a free wage akin to UBI from the state
 
