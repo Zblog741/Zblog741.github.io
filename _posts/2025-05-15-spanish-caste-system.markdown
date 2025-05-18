@@ -629,7 +629,7 @@ If you believe a tight opening schedule is *somehow* a positive because "workers
 Recently, there has been some debate about the sustainability of the pensioner system. Currently, Spain spends about half its annual budget in pensions. 
 Pensioners worked and saved during an era of economic expansion; they could afford houses and vacations. 
 New births per year have declined steeply, and the result is that old people now own the housing, and the economy in general. 
-Yet those pensioners who need no pension, do receive a generous pension. In exchange for that generosity, they only have to keep voting PSOE. 
+Yet those pensioners who need no pension, do receive a generous pension. In exchange for that generosity, they only have to keep voting PSOE (or PP, the "right-wing" copy of PSOE). 
 
 Back in the day, multiple working Spaniards paid for one pensioner's needs. The issue is that now, for every pensioner there are only two working Spaniards (and I bet one of them is not even born and raised in Spain). 
 Young working people have been reduced to slaves to old people since they don't realistically have a chance to acquire a stake in the economy (or own their own housing). 
@@ -659,7 +659,7 @@ This brings the real joblessness rate for under 25s to an estimation of around 5
 <b>The youth is being replaced by immigrants.</b>
 </p> 
 
-The pensioner system is simply unsustainable; not even in the future, but right now. So the government's move is to import that sustainability. Even if that were to work (it won't unless done through institutional filters), the local youth is rendered unnecessary, and forced to depend on their families (and their welfare) or the government as civil servants. 
+The pensioner system is simply unsustainable; not even in the future, but right now. So the government's move is to import that sustainability (and import the future voters that would perpetuate their power). Even if that were to work (it won't unless done through institutional filters), the local youth is rendered unnecessary, and forced to depend on their families (and their welfare) or the government as civil servants. 
 
 > divide [public debt] by the total population, it's not that bad! divide it by the working population.... it's REALLY bad. Then adjust for people who work for the government and we're in a crisis. Further adjust for the expected population collapse and we're in a dystopia. 
 
@@ -702,7 +702,7 @@ I remember all my experiences in Spain, and the sort of things the tax agency mi
 > or rather, tax woman because she (the minister) is actually communist 
 
 For employees, while congress every year makes minimum wage non-taxable, they can change that at any moment. 
-Recently, they made a strange change to how they tax employees, resulting in [the first 5% over minimum wage to be taxed at 99%](https://x.com/Jongonzlz/status/1909995584942915699), and at about 50% for the fringe up to 126% (21k euros) the minimum wage. This means companies are more incentivized to keep employees at minimum wage, since the employee doesn't see any benefit the 5% over minimum wage, and only half the benefit for another 21%. 
+Recently, they made a strange change to how they tax employees, resulting in [the first 5% over minimum wage to be taxed at 99%](https://x.com/Jongonzlz/status/1909995584942915699), and at about 50% for the fringe up to 126% (21k euros) the minimum wage. This means companies are more incentivized to keep employees at minimum wage, since the employee doesn't see any benefit the 5% over minimum wage, and only half the benefit for another 21%.  
 Bear in mind, this is only income tax, which goes from 24% to 45% at 60k euros; there's also social security which is mostly paid by the employer, which at minimum wage is roughly a third of the wage, and then there's the income tax from the local autonomous government... and the new taxes on income they keep coming up with, like the "solidarity fee" (solidarity, with the pensioners). 
 
 
@@ -722,6 +722,8 @@ Not only you are required to pay a fee to work at all, the state decides if your
 > for a moment i thought perro sanxe might have cared about me, since BI activities are included in the subsidy program meaning hiring those services can come free for micro and small enterprises. even better, the requisites to be part of the program were to be unemployed and younger than 35, besides doing a 150h training. sounds like a great chance, i thought. until i found out i need to have had 100k in revenue within the last two years 
 
 > MEANING not only i literally am not allowed to take advantage of the program on a freelance basis, but I am automatically rendered not competitive
+
+(*and this includes pretty much all tech work that used to be able to be done on a freelance basis*)
 
 > because how THE FUCK am I supposed to compete with other people when their labour and ONLY THEIRS is FREE for their clients
 
@@ -762,7 +764,7 @@ The money is given to individual small projects, thousands of them, and it would
 
 
 Moreover, I am personally extremely suspicious of the European Union's recent stances, such as with the anti-cryptocurrency stances of the European Central Bank or the survival kit for a "climate change emergency"; 
-the only thing that might cause a climate change emergency such as to need a survival kit is nuclear war, because apparently anything that involves negotiating with Russia is being pro-Russia. 
+the only thing that might cause a climate change emergency such as to need a survival kit and stockpile three day's worth of food is nuclear war, because apparently anything that involves negotiating with Russia is being pro-Russia. 
 European Federalists demand a EU with a central government "to oppose" right-wing influences like Trump, but the federalists rarely seem to consider the EU *does have* a diverse political spectrum;
 a EU that only favours one view is destined to evolve into a dictatorship. 
 
@@ -798,10 +800,11 @@ In Spain, entry level positions are rare. Most of the private economy is based a
 If I was in the UK I would have been scheduling interviews with multiple places within days. 
 Here in Barcelona, Spain, I spent several weeks looking for unqualified work, just to give up. Burger King didn't have any restaurant that was hiring: the closest one was in a town one hour and a half away from the city. 
 I eventually found temporary work *through a discord channel*. It was only for three days; my most profitable skill from four years of physics was knowing how to handle paper without cutting my fingers. 
-For three days of work, I was paid about 6 euros the hour, and had to wait two months to collect it; less than minimum wage. 
+For three days of work, I was paid about 6 euros the hour, and had to wait two months to collect it; less than minimum wage. Update: with one exception, no fast food chain ever got back to me. The one that did get back for an interview did so almost *four months* after my application, and they closed their message with "*Happy Day*". 
 
-Another role where it is easy to get an interview in Barcelona is as a real estate salesperson with a real estate agency. They invited me to an interview and I expected to be a one-on-one interview; when I arrived, there were about twenty other men in the room. They showed us all a video about their agency, clearly brainwashing to convince their future employee (or potential client) that what they do is ethical. Their approach was for their employees to build trust within their local community and wait for the moment they could sell a home; the selection was based on appearance and openness more than experience, judging from the order they decided to do the interviews in. 
-Most job opportunities that did not require experience were in aggressive street sales, where young men made money convincing old people to buy something they didn't need, and young women made money getting men drunk to make them agree on something. 
+A role where it is easy to get an interview in Barcelona is as a real estate salesperson with a real estate agency. They invited me to an interview and I expected to be a one-on-one interview; when I arrived, there were about twenty other men in the room. They showed us all a video about their agency, clearly brainwashing to convince their future employee (or potential client) that what they do is ethical. Their approach was for their employees to build trust within their local community and wait for the moment they could sell a home; the selection was based on appearance and openness more than experience, judging from the order they decided to do the interviews in. 
+Most "work opportunities" that did not require experience were in aggressive street sales, where young men made money convincing old people to buy something they didn't need, and young women made money getting men drunk to make them agree on something. 
+Another common role is as a "teleoperador" (telemarketing); from what I've heard of someone that had to work such jobs is that most of what they often do is highly unethical. 
 
 > few months ago i went to an interview in a shady place 
 
@@ -823,7 +826,7 @@ It is pretty common for bars and restaurants to look for workers who do unpaid o
 
 
 <p style="text-align: center;"> 
-<b>That was their normal.</b>
+<b>And that was their normal.</b>
 </p> 
 
 
@@ -836,18 +839,20 @@ There is a communist benefit for nearly anything; if not from the central govern
 Except we don't have food stamps (you either go ask the church or die, I guess). 
 Having a benefit for everything sounds good in theory, but in the practice it's just like the food stamps: there are no food stamps. 
 
-As a general rule, the older you are the more benefits you qualify for, but if you're young *and have a stable job* you might also be eligible for a number of smaller benefits. 
+As a general rule, the older you are the more benefits you qualify for, but if you're young *and have a stable job* (like those the government offers) you might also be eligible for a number of smaller benefits. 
 I won't go over every benefit since that would double the length of this post. 
-Being a victim of *gender violence* significantly enhances access to these benefits, to the point that the police has busted "mafias" that generated false accusations for female undocumented north african immigrants to access them. The benefits they offer for young people are typically small additions for living expenses. 
+Being a victim of *gender violence* significantly enhances access to these benefits, to the point that the police has busted "mafias" that generated false accusations for female undocumented north african immigrants to access them. 
 
 One of the most important benefits is the minimal living income, for which the eligibility is considered on the entire household. 
-We also have a number of other similar benefits for middle-aged people (they always have some age requirement). 
+We also have several other similar benefits for middle-aged people (they always have some age requirement). 
 Normally every autonomous community has a copy of the same benefits the central government offers (in practice, a small supplement to the central ones), plus a local list. 
 However...
 
 > we have a "minimal living income" in Spain, which is similar to UBI if you're not working
 
 > of course, nobody but the wealthy can afford not to work the duration it takes the bureaucracy to process the procedure (about a year iirc) 
+
+> If you work anytime during that period, you don't receive anything.
 
 > if you're a boomer with a paid for house and wealth abroad you can claim a free wage akin to UBI from the state
 
@@ -860,8 +865,8 @@ Simply put: if you're not living off the state you're a fool.
 
 ### The Civil Servants
 
-When I arrived in Granada the streets near the university looked like some sort of wartime or postapocalyptic scene. Papers flying by, every single wall and light post was full of advertising for prep courses. 
-Specifically, they were advertising for prep courses to do "oposiciones", to become a public servant. Since you need to take exams to become one, it has become a regular thing that the Spaniard learns the relevant content at a prep school since the Spanish self-learning culture is so atrophied from all those years of authoritarian schooling. 
+When I arrived in Granada the streets near the university looked like some sort of wartime or postapocalyptic scene. Papers flying by, every single wall and light post was full of advertising, for prep courses. 
+Specifically, they were advertising for prep courses to do "oposiciones", to become a public servant. Since you need to take exams to become one, it has become a regular thing that the Spaniard learns the relevant content at a prep school, given that the Spanish self-learning culture is so atrophied from all those years of authoritarian schooling. 
 
 In Spain, civil servants are known for being a privileged class: they have a job they legally can't get fired from, do minimum effort (even ignoring customers and being rude), and rake in guaranteed salaries that they would only dream of in the private sector. Since there are only very few job opportunities for graduates in the private sector, many opt for becoming a public servant. 
 I don't think it would be an overstatement to say that most students aim to become a public servant. It's sort of like the bee movie. 
@@ -924,7 +929,7 @@ Newton did it for free, and so did Einstein. Their wealth only came later with m
 There is rightly a lot of talk about the risk of government debt. This is a problem faced by many countries, including Spain. 
 However, Spain (*and the entire developed world*) faces a similar but more immediate, fundamental and greater problem, which only becomes visible to those who suffer it: the relevance of the youth, and The Great Population Collapse. 
 In a "black hole debt spiral scenario", a country becomes unable to pay back its public debt as the interest on its debt piles faster than it can pay back. 
-Spain can pay it back by importing lots of net positive immigrants from LatAm and the developed world (sun tax, bitch). But there's a similar but much deeper problem that **is now happening** to Spain, and has no easy foreseeable solution: the youngest generations will have no work. 
+Spain can pay it back by importing lots of net positive immigrants from LatAm and the developed world (sun tax, bitch). But there's a similar but much deeper problem that **is now happening** to Spain, and has no easy foreseeable solution: the youngest generations will have no employment. 
 Since the population pyramid is so skewed old, and salaries are kept relatively low even for experienced people, and there is a growing cost of living, **employers are massively encouraged to hire older**. 
 A common confusion is that "when the middle aged retire", young people will have the opportunity to get a job. 
 No, instead of opening opportunities for the young, the job goes to the next person with most experience, at the top of the stack: the population pyramid will become more skewed with time, and the problem will worsen. 
@@ -948,7 +953,7 @@ First in, first out.
 
 I applied to a job as a software developer at a bank. The job ad says one open position; even if it was a hundred open positions they would have already filled. 
 My profile fit perfectly with the job requirements but I didn't even get a call. 
-They keep it open for months, but the job doesn't actually exist. 
+They keep it open for months, but the job doesn't actually exist. These are known as ghost jobs, and overwhelmingly *waste the time* of applicants (therefore, in my opinion, should be made illegal). 
 I believe most jobs I apply to are like that, they don't really exist, and are just there for internal research, or to fulfill some legal requirement as they wait for their nepo hire. 
 At least, everyone in Spain seems to take as common knowledge that in this country, nepotism trumps above everything else. 
 
@@ -996,16 +1001,16 @@ The group who spoke gave its opinions, and stated the US is very different, demo
 and about the growing frustration about the American dream with the rising cost of living. 
 Immediately, I understood this was the same debate as always, 
 "Americans are dumb, as opposed to educated Europeans", but replacing words like 'dumb' with 'rural' or nuances that amount to 'ignorant'.
-They raised the point about the "far-right" in Europe, without fulling placing Trump in the same category. 
+They raised the point about the "far-right" in Europe, without fulling placing Trump in the same category (he *actually* is a "fascist" to their standards, they just didn't dare to believe half of the US would "vote for fascism"). 
 One girl asked why immigrants and hispanics seemed to favour Trump in the elections results. 
 They amounted it to some sort of selfishness, completely ignoring the obvious that non-citizens can't vote; 
-**they brought up they can't understand it because they have a *European perspective.*** 
+**they brought up they can't fully understand it because they have a *European perspective.*** 
 Everyone, perhaps about forty young adults, seemed to agree, with perhaps only one guy who claimed to understand why Americans would vote Trump. 
 *They looked convinced saying that something like that wouldn't happen in Europe*. 
 They took pride in being European; they are not like the Americans. 
-Here in Europe, we always vote for the good guys, except for the "marginal" far-right minority that we, *intellectual* Europeans can't understand. Right? 
+Here in Europe, we always vote for the good guys, except for the "marginal" far-right minority that "we", *intellectual* Europeans can't understand. Right? 
 
-[It turns out that amoung the young](https://x.com/hermanntertsch/status/1886388227747049825), the fascist, sexist, marginal, ignorant liars, anti-intellectual climate change deniers, extremist *far-right* makes up more than 27% of the young as per vote intention. And among the young, all of the left makes up roughly 20% of vote intention. The left, grows with age. 
+[It turns out that amoung the young](https://x.com/hermanntertsch/status/1886388227747049825), the "fascist", "sexist", "marginal", "ignorant liars", "anti-intellectual" "climate change deniers", "extremist" *far-right* makes up more than 27% of the young as per vote intention. And among the young, all of the left makes up roughly 20% of vote intention. The left, grows with age. 
 
 > I attended a talk at the civic centre. I thought it would be nice to try something different and see what the place offers. An astrophysicist gave a talk about the anthropic principle, or at least that's what it was supposed to be. What a charlatan--he didn't technically say anything that was completely made up like other people might do, but it was a very basic talk in which he ended up waving his hands as he talked about... "Quantum" immortality! Everyone in the room was very old, so for a moment I thought that was an interesting way to give all the people in the room some peace about their ever closer death in an ever more atheist population.
 
