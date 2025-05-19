@@ -16,5 +16,5 @@ permalink: /about/
 </div>
 
 _z2515
-
+<!--contact: just hmu on discord-->
 <br>
