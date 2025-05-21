@@ -11,7 +11,7 @@ mathjax: false
 
 *Disclaimer: I will write based on my lived experience. I will not hide behind fear or undue respect: I will point at politicians for mass homicide by name, and will discredit Spanish institutions based on nothing but my truthful lived experience. This puts me at risk of retaliation and harassment.*
 
-Waiting for the publishing of "*Spain has a solution*" by Iván Espinosa de los Monteros with conservative optimism, I am publicly stating my political position on this blogsite, which has come after enduring a constant stream of propaganda everywhere and anywhere I go in Spain. For context, I was raised across three countries in the Americas and Spain, and spent a large part of my years as a young adult in the United Kingdom; I'm also very into statistics. So I am not just stating opinions from a narrow worldview. 
+Waiting for the publishing of "*Spain has a solution*" by Iván Espinosa de los Monteros with conservative optimism, I am publicly stating my political position on this blogsite, which has come after enduring a constant stream of propaganda everywhere and anywhere I go in Spain. For context, I was raised across three countries in the Americas and Spain, and spent a large part of my years as a young adult in the United Kingdom; I'm also very into statistics. So I am not just stating opinions from a narrow worldview. An opinion of ChatGPT is that this post is inflammatory and unsubstantiated; this post shows negative emotion where it must, and remains unsubstantiated there where fact-checking is a basic exercise. 
 
 Recommended track for this post read: [No Time For Caution by Hans Zimmer](https://www.youtube.com/watch?v=7l3jadzn9cc&ab_channel=SHADYLULLABIES).
 
@@ -383,8 +383,7 @@ However, no one organized strikes for the students who could not afford to pay r
 
 I will not mention on the issues of feminism, as I believe much of the polarization we see in the world traces back to a deeper collective problem (by the way, "capitalism" is just the new "patriarchy"), but a strong populist party like Podemos leveraged emotion over facts. 
 And it was biased, against men. After their policies were adopted by PSOE, instead of increasing equality between and women, metrics of inequality increased. 
-Turns out, the rapists and molesters were not really that often the Spanish men they had spent years hating on, but immigrants mostly from underdeveloped countries that the government kept importing. 
-In fact, Spain used to be one of the safest countries on earth for women, and it wasn't until the feminists were in power that it started going to worse. It took until the pandemic for the self-feeding narrative of 
+Turns out, the rapists and molesters were not really that often the Spanish men they had spent years hating on, but immigrants mostly from underdeveloped countries that the government kept importing. This can be easily fact-checked in so many ways, that I will simply not. In fact, Spain used to be one of the safest countries on earth for women, and it wasn't until the feminists were in power that it started going to worse. It took until the pandemic for the self-feeding narrative of 
 `problem --> strikes for leftist policies --> leftist policies implemented --> leftist policies cause worse problems -->  larger strikes for more leftist policies` to slow down. 
 
 > i'm an immigrant too, and where I come from people kill you for twenty dollars
@@ -400,7 +399,7 @@ The government [still proudly keeps their misandrist rhetorics when it comes to 
 <b>The result of feminist Podemos was the death of thousands of people.</b>
 </p> 
 
-Nobody went to prison. This is the unspoken truth about Spanish feminism: they ignored EU and expert recommendations to stay home on March 8, 2020, as precaution because of the covid pandemic, and prioritized having an ever-larger strike. 
+Nobody went to prison. This is the unspoken truth about where the inflammatory Spanish feminist movement led to: they ignored EU and expert recommendations to stay home on March 8, 2020, as precaution because of the covid pandemic, and prioritized having an ever-larger strike. 
 In fact, the government encouraged women to go out to the strikes. 
 That day, *millions* of women went out to the street for the largest feminist strike in Spanish history; these crowds were surely the largest, densest and most omnipresent in the history of the country. 
 Estimates say it was more than 5 million women. 
