@@ -454,26 +454,71 @@ There were further hydrological plans to prevent this sort of disaster but were 
 
 Spain’s leaders Pedro Sánchez (PSOE), Carlos Mazón (PP), and Margarita Robles (Defense Minister), held the power to act, with the central government legally able to override Valencia’s delays under Spain’s constitution. Instead, they deflected blame, rejected aid, ignored warnings, and left volunteers as the only responders for nearly three days. Their negligence, rooted in political maneuvering and cultural apathy, turned a natural disaster into a human tragedy, with X posts decrying their inaction.
 
-**Timeline Summary: October 29–November 2, 2024.** 
+**Timeline Summary: October 29–November 2, 2024.**
 
-- **Oct 29, 7:36 AM**: AEMET issues a red alert for 90mm/hour rain. Forata dam engineers warn of overflow; the Júcar Confederation reports Valencia’s sewage system at capacity, ensuring floods with more rain. Valencia President **Mazón claims at 1:00 PM the storm will fade** (later deleted). Sánchez’s government, able to declare a national emergency, stays silent to avoid clashing with PP-run Valencia.
+**Oct 29, 7:36 AM**  
+- AEMET issues a red alert for Valencia, forecasting rainfall over 90 mm/hour or 180 mm over 12 hours.  
+  [Source](https://www.preventionweb.net/news/spain-floods-expose-flaws-europes-early-warning-systems)
 
-- **Oct 29, 12:00–2:00 PM**: Sánchez’s delegate, Pilar Bernabé, offers *Military Emergencies Unit (UME)* aid three times; Mazón was at a restaurant during that time, and the aid was not sent. Robles, overseeing 7,000 UME troops, refuses to deploy without Mazón’s formal request, despite knowing floods were killing dozens. Her insistence on protocol, even as Sánchez could override regional delays, stalls 1,000+ troops ready in Valencia and Madrid. Volunteers organize via X as floods trap residents.
+**Oct 29, 12:00–1:00 PM**  
+- The Júcar River Authority (CHJ) emails emergency officials that the Rambla del Poyo has exceeded critical thresholds.  
+  [Source](https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a)
+- Paiporta’s city hall issues a public warning of “extreme rain risk.”  
+  [Source](https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a)
+- Valencia President Mazón posts a video at 1:00 PM saying the storm is weakening and will shift away by evening.  
+  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
 
-- **Oct 29, 8:11 PM**: Mazón’s team sends a phone alert after 12+ hours after AEMET's alert—too late for Paiporta. Sánchez avoids unilateral action, blaming Mazón; Mazón points at Sánchez, AEMET and Júcar for unclear warnings. Volunteers and firefighters rescue people, filling the void for two days.
+**Oct 29, 3:00–4:00 PM**  
+- The regional government requests UME deployment for Utiel and Requena only.  
+  [Source](https://www.lavanguardia.com/mediterranean/20241106/10083765/timeline-tragic-week-cold-drop-valencia-spain-tragedy-aemet-alert-generalitat-mazon-rain-red-disaster-emergency-chiva-paiporta.html)
+- The request is officially logged at 3:59 PM.  
+  [Source](https://www.huffingtonpost.es/politica/robles-contradice-mazon-asegura-tardaron-casi-cinco-horas-pedir-ume-para-toda-provincia.html)
 
-- **Oct 30**: Mazón deletes his tweet around midnight. He rejects Catalonia’s GRAE firefighters, favoring Madrid’s aid for political optics, and the central government blocks France’s 200 firefighters. Robles, briefed on Paiporta’s devastation, mobilizes only 1,205 UME troops, citing Mazón’s unclear orders, though she could coordinate with Sánchez for immediate action. Volunteers, thousands strong, clear mud in Sedavi and Alfafar, as no soldiers arrive.
+**Oct 29, after 6:00 PM**  
+- Torrential rain causes flash floods across Paiporta, Sedaví, Alfafar, Catarroja, and other suburbs.  
+- Residents are caught off guard. Water floods basements and underground garages. Multiple people drown before any alert is issued.  
+  [Source](https://www.theguardian.com/world/2024/oct/31/it-was-a-trap-flood-alert-came-too-late-for-residents-of-paiporta-spain)
 
-- **Oct 31**: Sánchez pledges 10,000 troops at L’Eliana’s crisis meeting. Robles delays full UME deployment, awaiting Mazón’s paperwork. 
-Grande-Marlaska rejects El Salvador’s 300 paramedics, citing Mazón’s control. Mazón blames Sánchez; Robles calls Mazón’s critiques disloyal. 
+**Oct 29, 6:36 PM**  
+- Emergency technicians propose sending a mass mobile alert (ES-Alert), but approval is delayed. 
+  [Source](https://elpais.com/espana/comunidad-valenciana/2025-05-15/la-generalitat-barajo-la-alerta-masiva-de-la-dana-una-hora-y-media-antes-de-su-envio.html)
 
-- **Nov 1–2**: Sánchez’s pledge of 10,000 troops (5,000 soldiers, 5,000 police) faces logistical delays due to flooded infrastructure. Robles coordinates around 1,700 UME troops by November 1, increasing to 4,530 total personnel by November 2, with no major blockages after Mazón’s requests. Volunteers remain critical in rural areas like Chiva and Utiel, but share cleanup duties with UME and police, as political bickering between Mazón and Sánchez persists.
+**Oct 29, 8:11 PM**  
+- The ES-Alert is finally issued via mobile phones. By then, dozens have drowned, and entire neighborhoods are underwater.  
+  [Source](https://www.theguardian.com/world/2024/oct/31/spain-floods-valencia-death-toll-three-days-mourning)
+
+**Oct 29, 11:36 PM**  
+- A full request for UME deployment across the province is submitted.  
+  [Source](https://www.huffingtonpost.es/politica/robles-contradice-mazon-asegura-tardaron-casi-cinco-horas-pedir-ume-para-toda-provincia.html)
+
+**Oct 30, 12:00 AM**  
+- Mazón deletes his video claiming the storm would weaken.  
+  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+
+**Oct 30**  
+- Offers of assistance from Catalonia’s GRAE rescue units and France’s 200 firefighters are declined or blocked.  
+  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+- Defense Minister Robles authorizes deployment of only 1,205 UME troops, pending further paperwork.  
+- Public concern centers on the Bonaire shopping center, where it remains unclear whether anyone escaped its flooded underground garages for days.  
+  [Source](https://www.theguardian.com/world/2024/oct/31/spain-floods-valencia-death-toll-three-days-mourning)
+
+**Oct 31**  
+- Prime Minister Sánchez visits the crisis coordination center in La Eliana and pledges 10,000 emergency personnel.  
+  [Source](https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2025/20250123-visit-to-valencia.aspx)
+- Robles delays full deployment, citing lack of formal regional authorization.  
+  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+
+**Nov 1–2**  
+- UME personnel increase to 4,530 by November 2.  
+  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+- Police and civil protection forces expand relief in towns like Chiva and Utiel. Volunteers remain essential in rural areas.  
+- Political blame continues between regional and national officials.
 
 <p style="text-align: center;"> 
 <b>This timeline is part of a narrative. Declaring a state of emergency was probably never a necessity. </b>
 </p> 
 
-So, neither Sanchez, nor Mazon, nor Robles acted. UME Chief Francisco Javier Marcos didn't act either, [supposedly because they needed authorization](https://www.eldebate.com/espana/defensa/20241119/def1602019-orden-autoriza-ume-actuar-emergencia-antes-activacion-formal_245984.html) to deploy into the area. [Actually, the Spanish government was literally faster sending humanitarian aid to Morocco than with the DANA floods.](https://x.com/infovlogger36/status/1852406518873756105) 
+So, neither Sanchez, nor Mazon, nor Robles acted in time. UME Chief Francisco Javier Marcos didn't act either, [supposedly because they needed authorization](https://www.eldebate.com/espana/defensa/20241119/def1602019-orden-autoriza-ume-actuar-emergencia-antes-activacion-formal_245984.html) to deploy into the area. [Actually, the Spanish government was literally faster sending humanitarian aid to Morocco than with the DANA floods.](https://x.com/infovlogger36/status/1852406518873756105) 
 I suspect UME Chief's actions might have been based on a bad interpretation of the law, and [Artice 4.2](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2441) only means to limit the power of UME before a disaster, not after (emphasis in necessary). I mean, imagine there was a catastrophic disaster and there was no one to give authorization: how fucking *dumb or evil* do you have to be to just let people die because there's no one to give the dumbfucking authorization? 
 And this was very clearly *already* a national emergency, not only competence of the Valencian government; even if the law was this evil, the decision of not elevating the emergency to level 3 (state of alarm) was purely political. If no one ends up in jail, some judge needs to commit seppuku. Because the hundreds of people that died in Valencia need not have died, and at every step of the process to help them some politician *left them to die*. I demand actual justice. 
 Let's look into it:
