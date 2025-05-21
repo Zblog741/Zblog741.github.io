@@ -206,19 +206,19 @@ I believe, or hope, my school in particular seems to have changed a bit on that 
 If you could not adapt to their way of teaching, you were expected to find help from outside, so many classmates mentioned about attending cram school. 
 One telling experience was when classmates struggled to do a dot product in physics class, but those very same classmates had already interiorized some integration result from math class. 
 It made no sense to me, that they could understand the more complex reasoning behind integration without understanding dot products first. It was like the students were LLMs, "spicy autocomplete", except modern day LLMs have a better understanding of mathematics than that. 
-It was explicit that the students were not there because they wanted to learn, but because they had to check the requirements to get into their desired degree. It was unrealistic for students to be interested in 9 different subjects, where most are completely unrelated to their desired field of study. 
+It was explicit that the students were not there because they wanted to learn, but because they had to check the requirements to get into their desired degree. It was unrealistic for students to be simultaneously interested in 9 different subjects, where most are completely unrelated to their desired field of study. 
 And the authoritarian style of teaching that promoted memorization over thinking skills, based mostly around transcribing blackboards into notebooks, clearly didn't actually fit everyone. 
 
 > In school I met a girl named C. She was very nice to me. I didn't talk much to her, but she would occasionally to me. I would occasionally sleep on my school desk, especially as I didn't really talk much, and she would occasionally wake me up and cheer me up. She also wanted to study theoretical physics, but starting in our second year she had abandoned the idea saying she struggled with mathematics so she was being delusional. It hurt me to see her say that, and I really believed she could have done great and gone on to university to study physics. But I didn't say anything. Instead, she decided to pursue music and figure it out along the way.
 
-I believe the most successful students were those who could convince themselves they loved each one of the nine different subjects, had perfect note taking skills with amazing handwriting and memory, and in the evenings and weekends did the in-depth studying. 
+I believe the most successful students were those who could convince themselves they loved each one of the nine different subjects, had perfect note taking skills with amazing handwriting and memory, and in the evenings and weekends did the in-depth studying. Relying on certain youtubers to understand the material was also a universal experience, even among the most successful students. 
 
 In Barcelona, an extremely small number of schools serve as feeding houses to the most demanded degrees at local universities. 
 The majority of olympiad participants come from the same school (school in singular; in my experience, informatics olympiad). 
 The students believe the system is meritocratic and equalitary, and they rarely think of feeder schools as privilege because some of those schools offer scholarships. 
 In reality, your teachers' and parents' background and familiarity with the system determines your possibilities. You won't find prepping for olympiads elsewhere. 
 For instance, in my world, math or informatics olympiads did not exist until I arrived in the US and looked into what universities look for. These kinds of competitions (and to go above and beyond, in general) are viewed as a "wasteful" by many, since they don't affect your grade for a spot at a university; especially if math is only one of nine different subjects you must excel at. 
-However, the local scene in Barcelona offers more possibilities to high school students than what the average university offers to its undergrads; it's mostly a matter of whether your teachers have any awareness of those programs. 
+However, the local scene in Barcelona offers more possibilities to high school students than what an average university might offer to its undergrads; it's mostly a matter of whether your teachers have any awareness of those programs. 
 
 ### University
 
@@ -232,7 +232,7 @@ I am not sure why this was, but I would suspect this was due to price controls f
 If the students privileged with those contracts didn't favour you, you paid outsider prices which were similar to what you'd find in a large city like Barcelona, to some local owner. 
 
 The city is an overrun tourist destination in spring, and felt like a "dusty desert" place for much of the year. 
-Some parts of the city are very agreeable, even inspiring, to visit in spring or autumn, but to live there long term is a different experience: the people are closed off and rude in Granada (they themselves recognize the locals are rude, calling it the "malafollá"). 
+Some parts of the city are very agreeable, even inspiring, to visit in spring or autumn, but to live there long term is a different experience: in Granada, the people are closed off and rude (they themselves recognize the locals are rude, calling it the "malafollá"). 
 The sun is excessively orthogonal and gives you an orange tanning; if you're not careful, skin cancer. 
 
 
@@ -305,11 +305,11 @@ It took me some time to understand that here, grades were determined by the prof
 They had it all upside down compared to how it was done in the UK, where the grading criteria were clear and transparent, grading was mostly anonymous, and exam marks were expected to have a mean around 60. I heard that in Granada 80% of students have to fail a subject before a professor was scrutinized. 
 I once had the pleasure of chatting with a girl in Barcelona who coincidentally also studied in Granada, and told me that a professor once used the colour of the t-shirt students were wearing that day to determine their grade (I am not making this up!). 
 
-Another experience I had was more nuanced, but piercing through appearances, showed me the lack of scientific integrity of the institution I was attending. 
+Another experience I had was more nuanced, but piercing through appearances, showed me the lack of scientific integrity of the people at the institution I was attending. 
 For unexpected reasons, I missed a presentation I had scheduled, and asked to reschedule it, knowing I had the right to as per university stipulations; the professor showed no problem. 
 One of my classmates sent on the group chat a paragraph-long text demanding me to apologise for what amounted to inadvertently making them wait five minutes (I was not the only person scheduled to talk). 
 She was basically asking me to beg them to attend my rescheduled presentation, saying they were making me a "personal favour"; I replied with righteous indignation that they were not doing me a personal favour, and that they were free to either attend or not my rescheduled presentation. 
-This interaction is what the professor later used to give me a grade for the presentation. 
+This interaction is what the professor later used to give me a grade for the presentation, the worst grade she had ever given. 
 
 > This professor too, became somewhat verbally abusive because I used to use my phone during lectures and I made a question ("corrected her" according to her) on something saying I had just read it on the Internet 
 
@@ -457,65 +457,49 @@ Spain’s leaders Pedro Sánchez (PSOE), Carlos Mazón (PP), and Margarita Roble
 **Timeline Summary: October 29–November 2, 2024.**
 
 **Oct 29, 7:36 AM**  
-- AEMET issues a red alert for Valencia, forecasting rainfall over 90 mm/hour or 180 mm over 12 hours.  
-  [Source](https://www.preventionweb.net/news/spain-floods-expose-flaws-europes-early-warning-systems)
+- AEMET issues a red alert for Valencia, forecasting rainfall over 90 mm/hour or 180 mm over 12 hours. [Source](https://www.preventionweb.net/news/spain-floods-expose-flaws-europes-early-warning-systems)
 
 **Oct 29, 12:00–1:00 PM**  
-- The Júcar River Authority (CHJ) emails emergency officials that the Rambla del Poyo has exceeded critical thresholds.  
-  [Source](https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a)
-- Paiporta’s city hall issues a public warning of “extreme rain risk.”  
-  [Source](https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a)
-- Valencia President Mazón posts a video at 1:00 PM saying the storm is weakening and will shift away by evening.  
-  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+- The Júcar River Authority (CHJ) emails emergency officials that the Rambla del Poyo has exceeded critical thresholds. [Source](https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a)
+- Paiporta’s city hall issues a public warning of “extreme rain risk.” [Source](https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a)
+- Valencia President Mazón posts a video at 1:00 PM saying the storm is weakening and will shift away by evening. [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
 
 **Oct 29, 3:00–4:00 PM**  
-- The regional government requests UME deployment for Utiel and Requena only.  
-  [Source](https://www.lavanguardia.com/mediterranean/20241106/10083765/timeline-tragic-week-cold-drop-valencia-spain-tragedy-aemet-alert-generalitat-mazon-rain-red-disaster-emergency-chiva-paiporta.html)
-- The request is officially logged at 3:59 PM.  
-  [Source](https://www.huffingtonpost.es/politica/robles-contradice-mazon-asegura-tardaron-casi-cinco-horas-pedir-ume-para-toda-provincia.html)
+- The regional government requests UME deployment for Utiel and Requena only. [Source](https://www.lavanguardia.com/mediterranean/20241106/10083765/timeline-tragic-week-cold-drop-valencia-spain-tragedy-aemet-alert-generalitat-mazon-rain-red-disaster-emergency-chiva-paiporta.html)
+- The request is officially logged at 3:59 PM. [Source](https://www.huffingtonpost.es/politica/robles-contradice-mazon-asegura-tardaron-casi-cinco-horas-pedir-ume-para-toda-provincia.html)
 
 **Oct 29, after 6:00 PM**  
 - Torrential rain causes flash floods across Paiporta, Sedaví, Alfafar, Catarroja, and other suburbs.  
-- Residents are caught off guard. Water floods basements and underground garages. Multiple people drown before any alert is issued.  
-  [Source](https://www.theguardian.com/world/2024/oct/31/it-was-a-trap-flood-alert-came-too-late-for-residents-of-paiporta-spain)
+- Residents are caught off guard. Water floods basements and underground garages. Multiple people drown before any alert is issued. [Source](https://www.theguardian.com/world/2024/oct/31/it-was-a-trap-flood-alert-came-too-late-for-residents-of-paiporta-spain)
 
 **Oct 29, 6:36 PM**  
-- Emergency technicians propose sending a mass mobile alert (ES-Alert), but approval is delayed. 
-  [Source](https://elpais.com/espana/comunidad-valenciana/2025-05-15/la-generalitat-barajo-la-alerta-masiva-de-la-dana-una-hora-y-media-antes-de-su-envio.html)
+- Emergency technicians propose sending a mass mobile alert (ES-Alert), but approval is delayed. [Source](https://elpais.com/espana/comunidad-valenciana/2025-05-15/la-generalitat-barajo-la-alerta-masiva-de-la-dana-una-hora-y-media-antes-de-su-envio.html)
 
 **Oct 29, 8:11 PM**  
-- The ES-Alert is finally issued via mobile phones. By then, dozens have drowned, and entire neighborhoods are underwater.  
-  [Source](https://www.theguardian.com/world/2024/oct/31/spain-floods-valencia-death-toll-three-days-mourning)
+- The ES-Alert is finally issued via mobile phones. By then, dozens have drowned, and entire neighborhoods are underwater. [Source](https://www.theguardian.com/world/2024/oct/31/spain-floods-valencia-death-toll-three-days-mourning)
 
 **Oct 29, 11:36 PM**  
-- A full request for UME deployment across the province is submitted.  
-  [Source](https://www.huffingtonpost.es/politica/robles-contradice-mazon-asegura-tardaron-casi-cinco-horas-pedir-ume-para-toda-provincia.html)
+- A full request for UME deployment across the province is submitted. [Source](https://www.huffingtonpost.es/politica/robles-contradice-mazon-asegura-tardaron-casi-cinco-horas-pedir-ume-para-toda-provincia.html)
 
 **Oct 30, 12:00 AM**  
-- Mazón deletes his video claiming the storm would weaken.  
-  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+- Mazón deletes his video claiming the storm would weaken. [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
 
 **Oct 30**  
-- Offers of assistance from Catalonia’s GRAE rescue units and France’s 200 firefighters are declined or blocked.  
-  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
-- Defense Minister Robles authorizes deployment of only 1,205 UME troops, pending further paperwork.  
-- Public concern centers on the Bonaire shopping center, where it remains unclear whether anyone escaped its flooded underground garages for days.  
-  [Source](https://www.theguardian.com/world/2024/oct/31/spain-floods-valencia-death-toll-three-days-mourning)
+- Offers of assistance from Catalonia’s GRAE rescue units and France’s 200 firefighters are declined or blocked. [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+- Defense Minister Robles authorizes deployment of only 1,205 UME troops, pending further paperwork. 
+- Public concern centers on the Bonaire shopping center, where it remains unclear whether anyone escaped its flooded underground garages for days. [Source](https://www.theguardian.com/world/2024/oct/31/spain-floods-valencia-death-toll-three-days-mourning)
 
 **Oct 31**  
-- Prime Minister Sánchez visits the crisis coordination center in La Eliana and pledges 10,000 emergency personnel.  
-  [Source](https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2025/20250123-visit-to-valencia.aspx)
-- Robles delays full deployment, citing lack of formal regional authorization.  
-  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+- Prime Minister Sánchez visits the crisis coordination center in La Eliana and pledges 10,000 emergency personnel. [Source](https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2025/20250123-visit-to-valencia.aspx)
+- Robles delays full deployment, citing lack of formal regional authorization. [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
 
 **Nov 1–2**  
-- UME personnel increase to 4,530 by November 2.  
-  [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
+- UME personnel increase to 4,530 by November 2. [Source](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2024/november/Valencia-Leader-Admits-Mistakes)
 - Police and civil protection forces expand relief in towns like Chiva and Utiel. Volunteers remain essential in rural areas.  
 - Political blame continues between regional and national officials.
 
 <p style="text-align: center;"> 
-<b>This timeline is part of a narrative. Declaring a state of emergency was probably never a necessity. </b>
+<b>This timeline is part of a narrative. Declaring a state of emergency was most likely not even a necessity. </b>
 </p> 
 
 So, neither Sanchez, nor Mazon, nor Robles acted in time. UME Chief Francisco Javier Marcos didn't act either, [supposedly because they needed authorization](https://www.eldebate.com/espana/defensa/20241119/def1602019-orden-autoriza-ume-actuar-emergencia-antes-activacion-formal_245984.html) to deploy into the area. [Actually, the Spanish government was literally faster sending humanitarian aid to Morocco than with the DANA floods.](https://x.com/infovlogger36/status/1852406518873756105) 
@@ -557,7 +541,7 @@ I think the brief conversation I had represents a huge chunk of what makes up th
 He declared he didn't like Sanchez (like everyone does, yet he's president), but that if Sanchez had sent UME troops to Valencia he would have been demonized by the right and would be accused of a coup d'etat. 
 He brought the context of the events that happened during Catalonia's secession attempt, where state of emergency was declared to prevent the referendum. 
 According to the professor, Sanchez "couldn't do anything" because if he did he would be "accused of dictatorship by the far right". 
-I pointed that the Valencia government was clearly incompetent at handling the situation, and the central government should have acted to save lives, since saving lives was more important than political speculation; instead, the central government left Valencians them to die. The professor reluctantly agreed Sanchez was in the wrong, and then he seemed to shift guilt towards the "*anti-intellectual*", "*climate change deniers*" in the Valencia government, citing that Valencia president Mazon was the top responsible, *together with Vox* (aka. the "far right", who didn't have anything to do but shared the Valencia government with PP/Mazon), citing they had just cut funding to regional emergency services. I researched what he mentioned, and turned out Vox had scrapped plans to a phantom emergencies agency with no offices, staff or resources, but that offered a generous salary for a political position, on the basis that UME and local firefighters already had that role. The self convincing is strong. His reasoning was bullshit: all built on counterfactual narratives. The socialist Spaniard first decides their opinion, and only later comes up with the reasoning for it. 
+I pointed that the Valencia government was clearly incompetent at handling the situation, and the central government should have acted to save lives, since saving lives was more important than political speculation; instead, the central government left Valencians to die. The professor reluctantly agreed Sanchez was also in the wrong, and then he seemed to shift guilt towards the "*anti-intellectual*", "*climate change deniers*" in the Valencia government, citing that Valencia president Mazon was the top responsible, *together with Vox* (aka. the "far right", who didn't have anything to do but shared the Valencia government with PP/Mazon), citing they had just cut funding to regional emergency services. I researched what he mentioned, and turned out Vox had scrapped plans to a phantom emergencies agency with no offices, staff or resources, but that offered a generous salary for a political position, on the basis that UME and local firefighters already had that role. The self convincing is strong. His reasoning was bullshit: all built on counterfactual narratives. The socialist Spaniard first decides their opinion, and only later comes up with the reasoning for it. 
 
 
 <p style="text-align: center;"> 
@@ -580,19 +564,19 @@ Solar, which lacks mechanical inertia that comes useful to stabilize the grid, m
 For this reason, the frequency fluctuations point towards an overreliance on solar as a possible explanation for the blackout. 
 The "far-right" pointed this out, which the government didn't like. 
 
-> goes on TV to say I'm an ignorant fuck or a liar because nuclear plants are a problem, not a solution
+> President goes on TV to say I'm ignorant or a liar because nuclear plants are a problem, not a solution
 
 > i am a far right radical because i dont think demolition of nuclear plants is a good idea, "a blackout would NEVER happen in Spain"
 
 [Sanchez had said there wouldn't be blackouts in Spain, calling it a far-right fantasy](https://x.com/MurcianoJapo/status/1916847412422811936); so did [other left-wing politicians](https://x.com/vitoquiles/status/1922624196175134789). After the blackout, [Sanchez stated nuclear were a problem during the crisis (!?)](https://x.com/rtvenoticias/status/1917174795982032899) because they "consumed energy while they attempted to recover the grid", which is [not true](https://www.csn.es/noticias-csn/2025/-/asset_publisher/9iAov9mrc931/content/informacion-sobre-el-estado-operativo-de-las-centrales-nucleares-espanolas). 
 His rhetoric was to shift blame to nuclear ([because his government had been demolishing nuclear plants](https://x.com/ada_lluch/status/1916961580790779924)), even though the grid was recovered by reconnecting with France, which uses mostly nuclear. [President Sanchez has also claimed Spain has no uranium for nuclear plants, which is completely false. ](https://x.com/el_pais/status/1920025482478657741)
 
-To be clear, the cause of the blackout is still unknown, but overreliance on solar lacking spin seems to be the most plausible explanation. 
+To be clear, the cause of the blackout is still unknown, but overreliance on solar lacking spin and therefore destabilizing the frequency of the grid seems to be the most plausible explanation. 
 
 Climate change is "our #1 issue", according to the Spanish government. 
 In Baccalaureate I was once forced to write an essay about how we can combat climate change in daily life with small actions. 
 Like, turning the lights off when not in use. 
-I wrote that climate change will solve itself through technology and policy, and claimed that sacrificing peace of mind on such daily actions was ridiculous. 
+I wrote that climate change will be solved through technology and policy, and claimed that sacrificing peace of mind on such daily actions was ridiculous. 
 *And I believe it is abusive and manipulative*. Nearly a decade later, I keep reading about people having "climate change anxiety". 
 But here are [politicians turning the lights off](https://x.com/herqles_es/status/1903644189214048734), even when most of the grid is already renewables. 
 
@@ -673,11 +657,10 @@ There's also [controversy](https://europeanconservative.com/articles/news/spains
 > She also mentioned that "the far right" is a "danger to democracy", and that their duty is to change society... 
 > She said it like it was the government's duty to change the opinions and values of the people 
 
-Moreover, [they just passed a law to ban journalists who make uncomfortable questions](https://x.com/sextaNoticias/status/1924898463432483326) from government press.  
 ### The Charocracy
 
 Spain not only failed in capitalism with 2008, it is also a failed communist country. 
-My local gym, managed by the city council, opens at 7am and closes at 9pm. They're only open for six hours on Sundays, and the rest of the week it's almost always packed. 
+My local gym, managed by the city council, opens at 7am and closes at 9pm. They're only open for six hours on Sundays, and it's almost always packed. 
 If you believe a tight opening schedule is *somehow* a positive because "workers deserve time off", I would respond that I would gladly work at my local gym if I had the opportunity, and I believe many unemployed would say the same. Spain has some of the highest unemployment rates across the EU and the developed world, but I'll mention more about that further below.  
 
 Recently, there has been some debate about the sustainability of the pensioner system. Currently, Spain spends about half its annual budget in pensions. 
@@ -690,7 +673,7 @@ Young working people have been reduced to slaves to old people since they don't 
 When leftists complain about "capitalism", they're unknowingly actually complaining about the older generations pulling the ladder behind themselves; the economy is overwhelmingly owned by the old. 
 Not all the old, but even those who did worse with their personal finance are better off than the young, with the state benefits. 
 Between social security, income tax, VAT, and others, working people pay more than half their wage in taxes (they're just not aware of it since the employer and businesses pays in their behalf for most of those).
-Of that, half goes to pensions, and half to the livelihood of civil servants that provide little to no value, as well as subsidies, benefits and services used overwhelmingly more by older people. 
+Of that, half goes to pensions, and half to the livelihood of civil servants that provide little to no value, as well as subsidies, benefits and services used overwhelmingly more by older people or for political reasons, including fraudulent contracts. 
 Only about a fifth goes to actually useful institutions and services; to build the roads, to the hospitals and teachers, the police and so on. 
 Of the little money that remains to the young worker, they have to spend most of it on paying rent to the old who own the housing (...and receive the benefits/pensions). 
 **The state holds the monopoly on violence, and it is now being used at the expense of the young.**
@@ -705,7 +688,7 @@ The interests shared by the old in age into such abusive system are not unique t
 
 The fact of the matter is that most of the young population is being replaced by immigrants, and a near-total replacement may happen sooner than later. 
 In Spain, there were 322k births in 2024, and of those 31% were of foreign-born mothers. [The government is actively working to replace the young population with immigrants](https://www.lamoncloa.gob.es/lang/en/gobierno/councilministers/paginas/2024/202411119-council-press-conference.aspx), and is now aiming to regularise [300k immigrants a year](https://www.reuters.com/world/europe/spain-regularise-about-300000-undocumented-migrants-per-year-2024-11-19/). 
-Meanwhile, unemployment of citizens under 25 is around 26%, that is, some 470k young people willing to take nearly any job. Much of these are degree holders; engineers, nurses, lawyers. Meanwhile, the government cites the "need for workers" as a reason for their immigration policies. 
+Meanwhile, unemployment of citizens under 25 is around 26%, with some 470k young people willing to take nearly any job. Much of these are degree holders. Meanwhile, the government cites the "need for workers" as a reason for their immigration policies. 
 A further ~400k of people under 25 are jobless, and [do not appear in the official statistics](https://english.elpais.com/society/2021-09-17/spain-has-second-highest-percentage-of-young-people-who-neither-work-nor-study-in-eu.html). 
 This brings the real joblessness rate for under 25s to an estimation of around 50%. 
 
@@ -713,7 +696,7 @@ This brings the real joblessness rate for under 25s to an estimation of around 5
 <b>The youth is being replaced by immigrants.</b>
 </p> 
 
-The pensioner system is simply unsustainable; not even in the future, but right now. So the government's move is to import that sustainability (and import the future voters that would perpetuate their power). Even if that were to work (it won't unless done through institutional filters), the local youth is rendered unnecessary, and forced to depend on their families (and their welfare) or the government as civil servants. 
+The pensioner system is simply unsustainable; not even in the future, but right now. So the government's move is to import that sustainability (and import the future voters that would perpetuate their power). Even if that were to work ([it won't](https://x.com/merogos_/status/1925173638749212748) unless done through institutional filters), the local youth is rendered unnecessary, and forced to depend on their families (and their welfare) or the government as civil servants. 
 
 > divide [public debt] by the total population, it's not that bad! divide it by the working population.... it's REALLY bad. Then adjust for people who work for the government and we're in a crisis. Further adjust for the expected population collapse and we're in a dystopia. 
 
@@ -756,7 +739,7 @@ I remember all my experiences in Spain, and the sort of things the tax agency mi
 > or rather, tax woman because she (the minister) is actually communist 
 
 For employees, while congress every year makes minimum wage non-taxable, they can change that at any moment. 
-Recently, they made a strange change to how they tax employees, resulting in [the first 5% over minimum wage to be taxed at 99%](https://x.com/Jongonzlz/status/1909995584942915699), and at about 50% for the fringe up to 126% (21k euros) the minimum wage. This means companies are more incentivized to keep employees at minimum wage, since the employee doesn't see any benefit the 5% over minimum wage, and only half the benefit for another 21%.  
+Recently, they made a strange change to how they tax employees, resulting in [the first 5% over minimum wage to be taxed at 99%](https://x.com/Jongonzlz/status/1909995584942915699), and at about 50% for the fringe up to 126% (21k euros) the minimum wage. This means companies are more incentivized to keep employees at minimum wage, since the employee doesn't see any benefit the 5% over minimum wage, and only half the benefit for another 21%. 
 Bear in mind, this is only income tax, which goes from 24% to 45% at 60k euros; there's also social security which is mostly paid by the employer, which at minimum wage is roughly a third of the wage, and then there's the income tax from the local autonomous government... and the new taxes on income they keep coming up with, like the "solidarity fee" (solidarity, with the pensioners). 
 
 
@@ -789,7 +772,7 @@ Not only you are required to pay a fee to work at all, the state decides if your
 
 There are subsidies for **nearly every** industry. 
 Every policy program they make looks good on paper, they give it a great name like "Digital Transformation", 
-when in reality, such subsidy programs favour low or *negative* productivity and *fraud* (and there has been *so much* of this with the "Digital Transformation"), while keeping the gates well shut to the non-graced and non-fraudulent. 
+when in reality, such subsidy programs favour low or *negative* productivity and *fraud* (and there has been *so much* of this with the "Digital Transformation"), while keeping the gates well shut to the non-graced and non-fraudulent. From personal experience, my father asked a friend if he could help me get clients for freelance work, and he confirmed what I had found out: clients overwhelmingly prefer to use the subsidies, which not only gatekeep people from work, but it takes an entire year to get paid by the govenment. 
 
 #### The Communist European Union 
 
@@ -819,17 +802,16 @@ The money is given to individual small projects, thousands of them, and it would
 
 Moreover, I am personally extremely suspicious of the European Union's recent stances, such as with the anti-cryptocurrency stances of the European Central Bank or the survival kit for a "climate change emergency"; 
 the only thing that might cause a climate change emergency such as to need a survival kit and stockpile three day's worth of food is nuclear war, because apparently anything that involves negotiating with Russia is being pro-Russia. 
-European Federalists demand a EU with a central government "to oppose" right-wing influences like Trump, but the federalists rarely seem to consider the EU *does have* a diverse political spectrum;
-a EU that only favours one view is destined to evolve into a dictatorship. 
+European Federalists demand a EU with a central government "to oppose" right-wing influences like Trump, but the federalists rarely seem to consider the EU *does have* a political spectrum; a EU that only favours only one view as acceptable is destined to evolve into a dictatorship. 
 
 ### Spanish Industry
 
 
 Chains are much less common than in countries like the US or the UK; small businesses are very common, especially in retail, but are individual or family managed, and hence don't increase the employment offer in the market. Starting up is drowned by over-regulation and excessive taxation, as well as a hostile legal environment and tax agency. 
 Although there was a recent "Start up law", it is pretty much another communist scheme to bring more Americans to take jobs from the Spanish market. 
-The only way to get out of unemployment as a young person here in Spain, it seems, is to become a public servant. 
+The main way to get out of unemployment as a young person here in Spain, it seems, is to become a public servant (or nepotism). 
 Normally places open once a year, they're competitive and you're often required to prepare for a set of exams. 
-In Spain, entry level positions are rare. Most of the private economy is based around catering the old aged and tourists (such as cafés, restaurants and healthcare), and that's where you may have a realistic chance if you have relevant education and experience, or can fake it. The tech sector is saturated, especially as Spain is a destination for Americans and other tech workers from around the world that benefit from low taxes (Beckham Law): the government actively takes the opportunities of the young, and gives them to foreigners. 
+In Spain, entry level positions are rare. Most of the private economy is based around catering the old aged and tourists (such as cafés, restaurants and healthcare, and transport too), and that's where you may have a realistic chance if you have relevant education and experience, or can fake it. The tech sector is saturated, especially as Spain is a destination for Americans and other tech workers from around the world that benefit from low taxes (Beckham Law): the government actively takes the opportunities of the young, and gives them to foreigners. 
 
 > the WORST was when my dad sent my resume to a friend of his to ask for some advice and ohh man
 
@@ -854,10 +836,10 @@ In Spain, entry level positions are rare. Most of the private economy is based a
 If I was in the UK I would have been scheduling interviews with multiple places within days. 
 Here in Barcelona, Spain, I spent several weeks looking for unqualified work, just to give up. Burger King didn't have any restaurant that was hiring: the closest one was in a town one hour and a half away from the city. 
 I eventually found temporary work *through a discord channel*. It was only for three days; my most profitable skill from four years of physics was knowing how to handle paper without cutting my fingers. 
-For three days of work, I was paid about 6 euros the hour, and had to wait two months to collect it; less than minimum wage. Update: with one exception, no fast food chain ever got back to me. The one that did get back for an interview did so almost *four months* after my application, and they closed their message with "*Happy Day*". 
+For three days of work, I was paid about 6 euros the hour, and had to wait two months to collect it; less than minimum wage. Update: with one exception, no fast food chain ever got back to me. The one that did get back *for an interview* did so almost *four months* after my application, and they closed their message with "*Happy Day*". 
 
 A role where it is easy to get an interview in Barcelona is as a real estate salesperson with a real estate agency. They invited me to an interview and I expected to be a one-on-one interview; when I arrived, there were about twenty other men in the room. They showed us all a video about their agency, clearly brainwashing to convince their future employee (or potential client) that what they do is ethical. Their approach was for their employees to build trust within their local community and wait for the moment they could sell a home; the selection was based on appearance and openness more than experience, judging from the order they decided to do the interviews in. 
-Most "work opportunities" that did not require experience were in aggressive street sales, where young men made money convincing old people to buy something they didn't need, and young women made money getting men drunk to make them agree on something. 
+Most "work opportunities" that did not require experience were in aggressive street sales, where young men made money convincing old people to buy something they didn't need, and young women made money getting men drunk to make them agree on something (or so I overheard). 
 Another common role is as a "teleoperador" (telemarketing); from what I've heard of someone that had to work such jobs is that most of what they often do is highly unethical. 
 
 > few months ago i went to an interview in a shady place 
@@ -891,7 +873,7 @@ It is pretty common for bars and restaurants to look for workers who do unpaid o
 
 There is a communist benefit for nearly anything; if not from the central government, from the autonomic government. 
 Except we don't have food stamps (you either go ask the church or die, I guess). 
-Having a benefit for everything sounds good in theory, but in the practice it's just like the food stamps: there are no food stamps. 
+Having a benefit for everything sounds good in theory, but in the practice, sometimes it's just like the food stamps: there are no food stamps. 
 
 As a general rule, the older you are the more benefits you qualify for, but if you're young *and have a stable job* (like those the government offers) you might also be eligible for a number of smaller benefits. 
 I won't go over every benefit since that would double the length of this post. 
@@ -904,7 +886,7 @@ However...
 
 > we have a "minimal living income" in Spain, which is similar to UBI if you're not working
 
-> of course, nobody but the wealthy can afford not to work the duration it takes the bureaucracy to process the procedure (about a year iirc) 
+> of course, nobody but the wealthy can afford not to work the duration it takes the bureaucracy to process the procedure (about a year iirc) -- this was around 2023
 
 > If you work anytime during that period, you don't receive anything.
 
@@ -927,7 +909,7 @@ I don't think it would be an overstatement to say that most students aim to beco
 
 ### Government Funded Training 
 
-I love this topic because everywhere I go I am bombarded with advertising for government funded training, as if learning one more programming language was going to find me a job (it won't). If you're unemployed you have access to training paid for by the government, pretty much wherever you are. 
+I love this topic because everywhere I go I am bombarded with advertising for government funded training, as if learning one more programming language or tool was going to find me a job (it won't). If you're unemployed you have access to training paid for by the government, pretty much wherever you are. 
 
 > there are WAY too many people living off giving courses on shit you could learn by actually doing something useful
 
@@ -945,7 +927,7 @@ I love this topic because everywhere I go I am bombarded with advertising for go
 The vast majority of this training is too basic; in sensible countries this sort of training is usually done by the company itself, and simply there is no way anyone could find a job only based on what they'd learn from government funded training; people with way more experience than a "training course" are unemployed. 
 It's only meant to keep you distracted from the truth: keep you distracted about the real state of affairs. 
 There even was some recent [controversy because of how extremely outdated some government funded courses are](https://x.com/JaimeObregon/status/1899223108529094795). 
-What's more, it's as if some of the courses were aimed at old people looking for a hobby. 
+What's more, it's as if some of the courses for the unemployed were aimed at old people looking for a hobby. 
 
 > I think the clearest example on the Spanish problem with education is what happened in politics recently. 
 > In the Sumar political party, the result of a mix of far left political parties, partially a spiritual successor of Podemos, there was some drama about Iñigo Errejón having sexually assaulted a party member time ago. 
@@ -972,7 +954,7 @@ Waste spending can be realistically cut by half by only firing those whose jobs 
 
 > [LONG ENOUGH I have pretended I mathematicians make sense, NO 80% of them are just mentally ill and need help, starting by cutting their funding](https://x.com/alz_zyd_/status/1903563337562312912)
 
-I believe that pure mathematics are particularly wasteful, but maybe that's just because of my environment. Within academic circles, these advanced mathematics are referred to as mental masturbation, because that's pretty much all it is; "beauty" and "knowledge" which is only understood by a few people in the world but costs hundreds of thousands to millions of euros per mathematician. 
+I believe that pure mathematics are particularly wasteful, but maybe that's just because of my environment (the greater 'evil' is most often in admin/HR). Within academic circles, these advanced mathematics are referred to as mental masturbation, because that's pretty much all it is; "beauty" and "knowledge" which is only understood by a few people in the world but costs hundreds of thousands to millions of euros per mathematician. 
 Except, it's for the most part completely useless knowledge. ["But but maybe mathematics will be useful in the future!" Bro just put the fries in the bag](https://www.youtube.com/watch?v=shFUDPqVmTg&t=1s&ab_channel=SabineHossenfelder). 
 I don't think the average citizen would see reasonable to pay billions of euros to abstract artists for the sake of their art; imagine if your government paid billions in permanent salaries for the sake of "abstract artists", and at the same time, underfunded art schools! 
 Newton did it for free, and so did Einstein. Their wealth only came later with mainstream recognition. 
@@ -1023,8 +1005,7 @@ It is expected LLMs will extinguish the role of junior software engineers within
 Companies rely on "finding the best talent for the best price", and years of experience are universally used as a measure of desirability for hiring. 
 So I expect they will just stop hiring young people, as has already started heppening, and keep only hiring middle aged people who learn to leverage AI. 
 In the middle to long run, even among the middle aged, most will lose their job to AI and mostly only founding engineer (and probably, certain customer facing roles) will remain. 
-So the youth won't even be able to wait out until they're 30 to find a job. Especially if they keep giving the jobs to immigrants who are already 40. 
-This could potentially further decimate population growth of developed countries, assuming no measures taken. 
+So the youth won't even be able to "wait out" (dedicating that time to some skill) until they're 30 to find a job. Especially if they keep giving the jobs to immigrants who are already 40 with more than a decade of experience. This could potentially further decimate population growth of developed countries, assuming no measures taken. 
 
 > interviewing in Spain... as opposed to the UK, here they ask a lot of negative questions
 
@@ -1043,19 +1024,19 @@ Long-settled middle aged immigrants are for the most part unsatisfied, and for t
 Students live off the government and their parents, and their normal is to become a public servant or to continue in university indefinitely; doing more bachelor's degrees if need be. 
 
 I attended a politics talk organized by a young circle at a fancy and well known cultural center in Barcelona. The talk was regarding Trump's victory in the 2024 US elections; to note, this circle had no official political subscription and didn't normally discuss politics. 
-I found some of the most pretentious people I had ever seen, in just how little welcoming they were to a foreigner, that no less, dressed no lower than them, except for his shoes (because I'm a poor f\*ck). 
+I found some of the most pretentious people I had ever seen, in just how little welcoming they were to a foreigner, that no less, dressed no lower than them, except for his shoes (...shoes are expensive). 
 A professor with an impressive grasp on American history gave part of the talk, and several of what seemed to be the organizers added in their comments. There was a couple round of questions. 
 Something that caught my attention is that the professor called Trump pro-Russia in the context of Russia's invasion into Ukraine, when Trump only advocated for peace, and I later asked him about this; 
 according to the professor, if you don't advocate for Ukraine to recover all of its territory you are pro-Russian, per the widely accepted definition. 
 So, according to him and his accountance of academia, Trump was pro-Russia because he was open to negotiating with Russia to recognize former Ukrainian territories as Russian. 
-Ukraine had suffered one million deaths of their own people in an atrocious war which it could only endure thanks to the support of the US and the EU... But Trump was pro-Russian for wanting to stop it. 
+*Ukraine had suffered one million deaths of their own people* in an atrocious war which it could only endure thanks to the support of the US and the EU... But Trump was *pro-Russian* for wanting to stop it. 
 
 The rounds of questions were a brief back-and-forth about trying to understand the psychology behind Trump voters. 
 The group who spoke gave its opinions, and stated the US is very different, demographically, citing that rural voters favoured Trump, 
 and about the growing frustration about the American dream with the rising cost of living. 
 Immediately, I understood this was the same debate as always, 
 "Americans are dumb, as opposed to educated Europeans", but replacing words like 'dumb' with 'rural' or nuances that amount to 'ignorant'.
-They raised the point about the "far-right" in Europe, without fulling placing Trump in the same category (he *actually* is a "fascist" to their standards, they just didn't dare to believe half of the US would "vote for fascism"). 
+They raised the point about the "far-right" in Europe, without fulling placing Trump in the same category (he *actually* is a "fascist" to their standards, they just didn't fully dare to believe half of the US would "vote for fascism"). 
 One girl asked why immigrants and hispanics seemed to favour Trump in the elections results. 
 They amounted it to some sort of selfishness, completely ignoring the obvious that non-citizens can't vote; 
 **they brought up they can't fully understand it because they have a *European perspective.*** 
@@ -1064,14 +1045,13 @@ Everyone, perhaps about forty young adults, seemed to agree, with perhaps only o
 They took pride in being European; they are not like the Americans. 
 Here in Europe, we always vote for the good guys, except for the "marginal" far-right minority that "we", *intellectual* Europeans can't understand. Right? 
 
-[It turns out that amoung the young](https://x.com/hermanntertsch/status/1886388227747049825), the "fascist", "sexist", "marginal", "ignorant liars", "anti-intellectual" "climate change deniers", "extremist" *far-right* makes up more than 27% of the young as per vote intention. And among the young, all of the left makes up roughly 20% of vote intention. The left, grows with age. 
+[It turns out that among the young](https://x.com/hermanntertsch/status/1886388227747049825), the "fascist", "sexist", "marginal", "ignorant liars", "anti-intellectual" "climate change deniers", "extremist" *far-right* makes up more than 27% of the young as per vote intention. Whereas, among the young, all of the left makes up roughly 20% of vote intention. The left, grows with age. 
 
 > I attended a talk at the civic centre. I thought it would be nice to try something different and see what the place offers. An astrophysicist gave a talk about the anthropic principle, or at least that's what it was supposed to be. What a charlatan--he didn't technically say anything that was completely made up like other people might do, but it was a very basic talk in which he ended up waving his hands as he talked about... "Quantum" immortality! Everyone in the room was very old, so for a moment I thought that was an interesting way to give all the people in the room some peace about their ever closer death in an ever more atheist population.
 
 > One of the men in the room was very annoyed at this charlatan's quantum immortality, and as the talk yielded itself for discussion he interrupted -- and he called it bullshit, in Catalan.
 
-> I was actually having fun looking at the two old men grow increasingly upset at each other, with the charlatan trying to control the situation and the other man list his complaints, "you won't trick me!"
-the two men that sat in front of me, I suspected might have been physicists, as they sighed at every "quantum" nonsense and chuckled at the charlatan's statements that showed his lack of experience with physics
+> I was actually having fun looking at the two old men grow increasingly upset at each other, with the charlatan trying to control the situation and the other man list his complaints, "you won't trick me!". The two men that sat in front of me, I suspected might have been physicists, as they sighed at every "quantum" nonsense and chuckled at the charlatan's statements that showed his lack of experience with physics
 
 > During the charlatan's talk, there was also a woman, probably in her 70s or 80s too, I believe of biomedical or biochemical background, that made some interesting and well informed remarks only time remembers. She seemed to still bear excitement about science, even in her old age, and that was filling.
 
