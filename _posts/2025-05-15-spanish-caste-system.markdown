@@ -619,7 +619,16 @@ Transport Minister Óscar Puente has given out multiple insults to right wing X 
 It goes to such extent, that when defense minister Robles eventually arrived in Valencia, [she was seen confronting the residents](https://x.com/tomasrp3_/status/1860252445651190257) in a flooded garage. 
 There's also [controversy](https://europeanconservative.com/articles/news/spains-new-media-law-sparks-fears-of-censorship-and-state-control/) with the government keeping on passing laws that keep giving them suspiciously more power over media as well as immunity. The Spanish institutions are rotten, to the extent that a [corrupt police chief can have multiple luxury cars and go unnoticed](https://x.com/eldebate_com/status/1854977265219915793), but you're fined if you take out 3k euros in cash without a 24h tip to the tax agency. 
 
+21/May/2025 Update because I couldn't miss this:
 
+> the other day I was eating while listening to TV... and it was all propaganda. The *Minister of Equality* said we were still "fighting" against sexism... she said things are "improving a lot" *but they can do better because inequality has been rising* "since covid" (it's actually because of the immigrants, who are even permitted to claim citizenship with a criminal history, not covid; and the opinions turning against the feminist movement is recoil from the obvious brainwashing), and she blamed social media and the far right, before saying they are preparing a massive publicity (propaganda) campaign (with our taxes) to counter social media... 
+
+> The Spanish government is literally a copy of 1984 
+
+> She also mentioned that "the far right" is a "danger to democracy", and that their duty is to change society... 
+> She said it like it was the government's duty to change the opinions and values of the people 
+
+Moreover, [they just passed a law to ban journalists who make uncomfortable questions](https://x.com/sextaNoticias/status/1924898463432483326) from government press.  
 ### The Charocracy
 
 Spain not only failed in capitalism with 2008, it is also a failed communist country. 
@@ -820,7 +829,7 @@ Another common role is as a "teleoperador" (telemarketing); from what I've heard
 
 
 Meanwhile, on the TV was SUMAR leader Yolanda Diaz celebrating that they had reduced the working week from 40 to 37.5 hours. 
-The truth is that it's pure bullshit: this benefits the middle class, and especially civil servants, like every single decision this government has taken. 
+The truth is that it's pure bullshit: this benefits the (government-dependent) middle class, and especially civil servants, like every single decision this government has taken. 
 Non-exploitative jobs are not the norm, especially not what poor people are used to (SUMAR pretends to be on the side of poors). 
 It is pretty common for bars and restaurants to look for workers who do unpaid overtime, many times doubling the amount of hours they are paid for; I believe they ask for experience even for this, too. 
 
