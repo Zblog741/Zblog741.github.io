@@ -829,7 +829,7 @@ In Spain, entry level positions are rare. Most of the private economy is based a
 
 > should give myself 5 years of experience in something
 
-> the worst is most jobs in this bullshit country are appearance based, im not very tall, im  not a natural with social skills, shit is stacked against me
+> the worst is most jobs [that hire young] in this bullshit country are appearance based, im not very tall, im  not a natural with social skills, shit is stacked against me
 
 > to work in a warehouse they ask for licenses for this and that, it's a never ending of licenses and won't even consider u without them
 
