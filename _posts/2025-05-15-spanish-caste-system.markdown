@@ -450,7 +450,7 @@ There were further hydrological plans to prevent this sort of disaster but were 
 
 > I actually predicted back in ~2018 something like the Valencia floods catastrophe could happen, because these fuckers were like 30 years behind in their warning tech compared to the US, and yet i have no job
 
-> instead they give citizenship to hundreds of thousands of illegal aliens who will be a net negative to the economy over time
+> instead they give citizenship to hundreds of thousands of illegal aliens who [will be a net negative](https://x.com/kitten_beloved/status/1929991890134544606) to the economy over time
 
 Spain’s leaders Pedro Sánchez (PSOE), Carlos Mazón (PP), and Margarita Robles (Defense Minister), held the power to act, with the central government legally able to override Valencia’s delays under Spain’s constitution. Instead, they deflected blame, rejected aid, ignored warnings, and left volunteers as the only responders for nearly three days. Their negligence, rooted in political maneuvering and cultural apathy, turned a natural disaster into a human tragedy, with X posts decrying their inaction.
 
