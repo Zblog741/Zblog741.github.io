@@ -6,6 +6,26 @@ date: 2025-04-25
 mathjax: false
 ---
 
+<script type="text/javascript" async
+  src="https://polyfill.io/v3/polyfill.min.js?features=es6">
+</script>
+<script type="text/javascript" async
+  id="MathJax-script"
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+</script>
 
 **April 25, 2025.** *I toss a coin back in time to define free will and resolve the time-travel version of Zeno’s paradox.*
 <!--more-->
@@ -57,7 +77,7 @@ Deutsch’s framework resolves the paradoxes at the level of the time-traveling 
 </p>
 
 <p>
-This limitation motivated alternative proposals such as the postselected (or projective) CTC (P-CTC) approach [2,3]. Rather than imposing that the system in the CTC returns in precisely the same mixed state, P-CTCs forbid logically contradictory trajectories by assigning zero probability amplitude to them via postselection. In a typical realization, one treats the loop as a quantum teleportation protocol combined with a Bell-state projection. If a “contradictory” event — like traveling back in time to kill one’s own grandfather — would arise, then the postselection enforces final boundary conditions that the contradictory history cannot satisfy, effectively giving it zero amplitude. Moreover, in contrast to Deutsch’s formulation, which can produce a mixed state out of a pure one, <a href="https://zblog741.github.io/time-reordering/" target="_blank">P-CTCs do not create entropy</a>, so the global evolution of a pure state remains pure.
+This limitation motivated alternative proposals such as the postselected (or projective) CTC (P-CTC) approach [2,3]. Rather than imposing that the system in the CTC returns in precisely the same mixed state, P-CTCs forbid logically contradictory trajectories by assigning zero probability amplitude to them via postselection. In a typical realization, one treats the loop as a quantum teleportation protocol combined with a Bell-state projection. If a “contradictory” event —like traveling back in time to kill one’s own grandfather— would arise, then the postselection enforces final boundary conditions that the contradictory history cannot satisfy, effectively giving it zero amplitude. Moreover, in contrast to Deutsch’s formulation, which can produce a mixed state out of a pure one, <a href="https://zblog741.github.io/time-reordering/" target="_blank">P-CTCs do not create entropy</a>, so the global evolution of a pure state remains pure.
 </p>
 
 <p>
@@ -80,7 +100,7 @@ In <em>No Game No Life</em>, the fate of two nations hang on a single coin toss:
 We capture this dramatic twist using Deutsch’s closed timelike curve framework, with a quantum coin. 
 In our analogy, the coin has two facets. The deterministic "chronology-preserving" quantum coin is represented by 
 $$\rho_A = |1\rangle\langle1|,$$ 
-which reflects the outcome as predicted by the oracle—“1” (tails). The CTC coin, denoted by 
+which reflects the outcome as predicted by the oracle: “1” (tails). The CTC coin, denoted by 
 $$\rho_{\text{CTC}},$$ 
 is the coin Sora sends through the CTC by explicitly moving the floor tile in our analogy. Its state must satisfy a self-consistency condition that depends on $\rho_A$.
 </p>
@@ -146,7 +166,7 @@ $$
 In effect, Sora’s explicit floor-tile move, represented by the unitary $U$, forces the coin emerging from the CTC into a state that is neither clearly heads nor tails. This mixed outcome—representing the coin landing sideways—deprives the oracle of any advantage. 
 Moreover, this dramatic scenario serves as a compelling illustration of free will in time travel: by forcing the outcome to be maximally mixed, Sora subverts the oracle, ensuring that neither side can claim an advantage, effectively tying the game (assuming the coin is not finally measured).
 In fact, in his paper Deutsch postulates a <em>maximum entropy rule</em> (as to prevent <a href="https://en.wikipedia.org/wiki/Temporal_paradox#Bootstrap_paradox" target="_blank">bootstrap paradoxes</a>), which sets $p=1/2$. 
-This is interesting for the free will debate since humans are set to be at disadvantage <i>almost surely</i> against an oracle, except for the maximum entropy case, which places the human at no disadvantage against the oracle. This reveals a subtle but profound implication: that in the D-CTC framework the entropy-maximizing solution may be the only mechanism by which an agent can preserve strategic autonomy against a perfect predictor. In <em>No Game No Life</em>, Sora gives the Werebeast oracle two potential resolutions: they both lose or they both win, upon which the Werebeast decides on the most favourable outcome for the Eastern Federation, a win-win. 
+This is interesting for the free will debate since humans are set to be at disadvantage against an oracle (and <i>almost surely</i> on pure outcomes, or when the outcome is the result of many coin tosses), except for the maximum entropy case, which places the human at no disadvantage against the oracle. This reveals a subtle but profound implication: that in the D-CTC framework the entropy-maximizing solution may be the only mechanism by which an agent can preserve strategic autonomy against a perfect predictor. In <em>No Game No Life</em>, Sora gives the Werebeast oracle two potential resolutions: they both lose or they both win, upon which the Werebeast decides on the most favourable outcome for the Eastern Federation, a win-win. 
 <em>Hence, even if an oracle were unable to lose at their wager, the human may also be able to win against the oracle. </em>
 Even though the original coin toss game in <em>No Game No Life</em> did not involve any time travel, and the Werebeast could not win the game due to her failure to account for Sora's ingenuity, this example illustrates that a D-CTC allows for "free will" by using the maximum entropy rule. 
 However, this strategy depends on the maximum entropy rule being universally enforced; without the maximum entropy rule, the oracle can always counter the human’s move by using another D-CTC and selecting a fixed-point solution that restores its deterministic prediction ($p=0$), effectively undoing any attempt to force a fair toss. 
@@ -158,7 +178,7 @@ However, this strategy depends on the maximum entropy rule being universally enf
 If the oracle has access to its own D-CTCs, it could exploit this freedom by selecting a fixed-point solution that guarantees its win.
 Even if the oracle doesn’t explicitly use a CTC, we may allow the oracle to play on an even field and let it interact with the coin without collapsing its quantum state—applying a unitary operation just before the coin lands, given it lands at a fixed time $T_A$, to bias the outcome. 
 If both players can act this way, the result fails to converge: we can picture an infinite strategic loop where the coin’s state keeps flipping between the maximally mixed state and a pure state as it approaches $T_A$. While Deutsch proposed the maximum entropy rule to avoid bootstrap paradoxes, our scenario reveals a distinct yet similar and equally troubling issue: a game-theoretic analogue of Zeno’s paradox, where without the entropy rule, strategic responses regress infinitely and the system fails to converge.
-Negotiating a tie with the oracle would seem futile, too—the expected value of the outcome would favour the oracle. 
+Negotiating a tie with the oracle would seem futile, too; the expected value of the outcome would favour the oracle. 
 Now contrast this with P-CTCs. In the postselection model, inconsistent or paradoxical histories are eliminated outright: they’re assigned zero probability amplitude. 
 If the human prepares a maximally mixed coin and couples it via postselected teleportation, the oracle can’t reverse the outcome. 
 Even though neither the human nor the oracle may be able to predict the result of the coin, the result is effectively locked in at the point of postselection, locking the probabilities of the outcome, and therefore providing a solution for the limit at $T_A$.
