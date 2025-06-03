@@ -806,8 +806,9 @@ European Federalists demand a EU with a central government "to oppose" right-win
 
 ### Spanish Industry
 
-
-Chains are much less common than in countries like the US or the UK; small businesses are very common, especially in retail, but are individual or family managed, and hence don't increase the employment offer in the market. Starting up is drowned by over-regulation and excessive taxation, as well as a hostile legal environment and tax agency. 
+Chains are much less common than in countries like the US or the UK; small businesses are very common, especially in retail, but are individual or family managed, and hence don't increase the employment offer in the market. 
+In general, [roughly one half of Spaniards don't work](https://x.com/Jongonzlz/status/1929782644323070215), and of the half that works, *half works for the government* directly or indirectly. 
+Starting up is drowned by over-regulation and excessive taxation, as well as a hostile legal environment and tax agency. 
 Although there was a recent "Start up law", it is pretty much another communist scheme to bring more Americans to take jobs from the Spanish market. 
 The main way to get out of unemployment as a young person here in Spain, it seems, is to become a public servant (or nepotism). 
 Normally places open once a year, they're competitive and you're often required to prepare for a set of exams. 
