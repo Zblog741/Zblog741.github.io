@@ -536,7 +536,7 @@ President Sanchez did eventually appear in the scene of the disaster, but not wi
 
 #### The Public Opinion 
 
-In conversation with a family acquaintance, a professor or university lecturer of some kind in historical architecture, what society typically considers "cultured", the topic of the flood came up, since it was recent news. 
+In conversation with a family acquaintance, a teacher or lecturer of some kind in historical architecture, what society typically considers "cultured", the topic of the flood came up, since it was recent news. 
 I think the brief conversation I had represents a huge chunk of what makes up this country; probably the narrative PSOE and SUMAR aimed for. 
 He declared he didn't like Sanchez (like everyone does, yet he's president), but that if Sanchez had sent UME troops to Valencia he would have been demonized by the right and would be accused of a coup d'etat. 
 He brought the context of the events that happened during Catalonia's secession attempt, where state of emergency was declared to prevent the referendum. 
