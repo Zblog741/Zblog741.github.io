@@ -122,7 +122,7 @@ Though there is no stable orbit near the photon sphere, when considering the eff
 #### Power Requirements near the Photon Sphere
 
 A civilization hovering near the photon sphere of a Schwarzschild black hole must apply continuous thrust to counteract gravity. 
-Since the direction of this force is orthogonal to the momentum of an orbiting test particle, we can take the thrust needed to hover to be the same as the thrust needed in the orbit, in the limit $ r \to r_{\text{ps}} $, where orbital motion no longer provides any support against gravity. 
+Since the direction of this force is orthogonal to the momentum of an orbiting test particle, we can take the thrust needed to hover to be the same as the thrust needed in the orbit, in the limit $ r \to r_{\text{ps}} $, where orbital motion no longer provides any more support against gravity. 
 The required proper acceleration is $a = \sqrt{3}\, c^4 / 9GM$, which leads to a power requirement per unit mass $P/m = \sqrt{3}\, c^5 / 9GM$. 
 If this power comes from the civilization's own mass (assuming perfect mass-to-energy conversion), the rest mass decays exponentially, with a half-life 
 
