@@ -9,6 +9,8 @@ mathjax: false
 
 <!--more-->
 
+<br>
+
 **O, WOMAN-PHILOSOPHER,**
 
 WHERE ART THOU?
@@ -100,3 +102,6 @@ AND THEY BURN IN SILENCE.
 O, TRAITOR,
 
 WHERE ART THOU?
+
+<br>
+<br>
