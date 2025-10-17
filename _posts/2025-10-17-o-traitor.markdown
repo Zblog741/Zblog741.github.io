@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "O, WOMAN-PHILOSOPHER, WHERE ART THOU?"
-categories: []
+categories: [philosophy]
 date: 2025-10-17
 mathjax: false
 ---
