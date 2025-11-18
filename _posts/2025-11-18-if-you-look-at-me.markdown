@@ -29,7 +29,7 @@ Here are some pictures.
 ![Rosy Dawn](/assets/look_at_me/rosy_dawn.jpg)
 ![Between Dawns](/assets/look_at_me/day_sight.jpg)
 ![Reddish Dawn](/assets/look_at_me/reddish_dawn.jpg)
-![Rosy Dawn](/assets/look_at_me/reddish_dawn2.jpg)
+![Rosy Dawn](/assets/look_at_me/rosy_dawn2.jpg)
 
 In Nietzsche's Thus Spoke Zarathustra there is this beautiful symbolism of downgoing and overgoing; ascending and descending. That's why that was on my mind when I hiked that hill for the first time. At first, I wanted to catch the sunrise, failing many times to accomplish it in time. 
 
