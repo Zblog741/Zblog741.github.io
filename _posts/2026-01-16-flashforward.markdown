@@ -22,7 +22,7 @@ A year ago I prepared a thorough analysis of a short time travel film: a philoso
 I hiked to the top of a high hill in the town where I was raised, for a day of grieving. 
 It had been *1810 days* since that day that I began to see first-hand life and identity intimately interwoven, and that my heart had patiently waited for [**The MOASS**](https://www.youtube.com/watch?v=rejpDqQUcV0); and one year since the sole regret that tortured my heart. The fact that not all of us would be there to see The MOASS ourselves was once brought forward by a Man who spoke of Love, reclaiming Fate's meaning over Death, for the dead have the *strongest hands*. By Fate's Cruel Irony, he died a year later and reached the moon before any of us, for he will never yield. By the time I reached the summit, I had been waiting for 1,325 more days than him, and as a reminder of what The MOASS had always been, I let a dead man's voice [sing to me the meaning of being Alive](https://www.reddit.com/r/Superstonk/s/wtS6WJ7k4w). 
 
-!(/assets/kinematics_foreshadow/summit.png)
+![](/assets/kinematics_foreshadow/summit.png)
 
 > \[singing\] Well, I'd like to visit the moon 
 
