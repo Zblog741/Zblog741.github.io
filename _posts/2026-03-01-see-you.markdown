@@ -1,0 +1,58 @@
+---
+layout: post
+title: "See you on the Fucking Moon. "
+categories: [reflections]
+date: 2026-03-01
+mathjax: false
+---
+**March 1, 2026.** *Banger drop.* 
+
+<!--more-->
+
+All in all, this beloved corner of the internet will decrease in activity, in favour of name-stamped publications, endless work and real-name-posting with cowardly measured language. Check it out, it'll be live *soon*. 
+
+I originally started posting because I wanted a space where I could publicly show my work and explore interesting concepts in physics. That was back in the day, when I followed a bunch of crayon-eating *REGARDS* head fucking on INTO A [DEATH DEBT SPIRAL](https://gurrenlagann.fandom.com/wiki/Death_Spiral_Machine) in the most courageous pursuit of the MOASS: [a leap of faith](https://en.wikipedia.org/wiki/Leap_of_faith). Oh, the courageous fallen... 
+
+At some point, the blog was perhaps what I did in order to motivate myself to produce something that would tell an admissions committee this dude is worth a chance. But alas, I wanted to be seen, to appease loneliness, and it's become my beloved personal corner of the internet. It's clear that by now, this blog has devolved into my painful and slow descent into hell. 
+
+Whenever I drink alcohol I'm either beating lifetime crippling *shyness* (aka. 'tism) or digging deeper into suicidal ideation. Ah, the *rails* of the metro, how smooth do they seem at six thirty AM. Like a gentle and soothing caress I may never have. They hum in my ear a sweet melody, and offer to relief me of all pains. [My cup is filled](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), filled with pain. My cup is filled, filled with beauty. That is the Truth of this world. But for [*scoundrels and the treacherous of the ninth circle*](https://en.wikipedia.org/wiki/Inferno_(Dante)), they [see](https://www.gutenberg.org/files/1636/1636-h/1636-h.htm) not beauty but their own disfigured reflection, and [seek to destroy it](https://en.wikipedia.org/wiki/Mimetic_theory). 
+
+This year, I will be publishing a variety of preprints and launching a series of startups (provided I don't give up midway). Putting my real name out there, scary stuff. Betting it all on *vibe science*, vibe coding, and AI productivity enhancement accelerating at a similar pace to the complexity growth of my projects. Though unfortunately, I'm designing my own golden cuffs; first escape from poverty, just to have to escape from a golden prison. If by chance my means of survival are on the other hand reduced to that of a stranger's charity, who the hell knows what may be of me, but I'm not going to endlessly apply on linkedin ever again, let alone in the age of AI! I would rather [let the earth swallow me](https://en.wikipedia.org/wiki/Diogenes_and_Alexander). 
+
+When I was thirteen years old, I started writing because I feared human memory could be forgotten or rewritten, as I would ultimately face death sometime. And as a way to cope with depression. I don't think it has ever brought me much on the outside, but it brought me a vast [inner-space](https://kafkafuura.wordpress.com/2015/03/29/ken-ja-no-kyokuhoku/) where beauty and a solitary kernel of love may dwell. 
+
+Now I just want to disappear. Travel by foot and get lost. Maybe write a travel blog like *[The Worst Boyfriend Ever](https://substack.com/@worstboyfriendever)*, that'd be fun. I am done. For all I know, the only reason I have not yet killed myself is because GOD is guiding me in His *DIVINE PROVIDENCE* to witness the Third coming of the Roaring Kitty and see the MOASS myself. Thus I am happy! 
+
+And to that person in particular:
+<span id="sref">
+I blame you for everything. So I tell myself. 
+</span>
+That's what kept me from descending to the depths of insanity YOU fucking [*foid*](https://en.wikipedia.org/wiki/Inferno_(Dante)) forced upon me. You studied my brain and then carried on war against me. Something broke in me because of you: the good in me. That is what I grieve on a daily, the goodness and love that has completely left my heart.
+
+<style>
+.highlight {
+    background: linear-gradient(to right, rgba(180,220,255,0.4), transparent);
+    transition: background 0.6s ease;
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const target = document.getElementById("sref");
+
+    document.querySelectorAll('a[href="#sref"]').forEach(link => {
+        link.addEventListener("click", function(e) {
+            e.preventDefault();
+
+            target.classList.add("highlight");
+            target.scrollIntoView({ behavior: "smooth", block: "center" });
+
+            setTimeout(() => {
+                target.classList.remove("highlight");
+            }, 2000);
+        });
+    });
+});
+</script>
+
+You once mentioned I had never hurt anyone on purpose; I found that a very strong statement for someone you didn't know for long. Certainly, I had a noble heart, and [accepted the flaws of others with love, to my pains](https://en.wikipedia.org/wiki/Mimetic_theory); but was to suffer of abuse, and as such [which I cannot do anymore](#sref). I don't give a fuck about anything anymore. **I've been forced not to care anymore.** And yet here I am, crying. Because I don't want to hate; I don't want not to care. Because everything in me is made to *love* the people I **MUST HATE**. Yet I cannot conceive of ever being able to forgive for what has been broken in me. The world can end for all I care. And God shall then save me.
